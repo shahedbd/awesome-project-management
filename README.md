@@ -38,3 +38,7 @@ Awesome lists about Project Management interesting topics.
 - [candidate interview questions](https://collegegrad.com/questions)
 - [How to interview a PM](https://www.smartrecruiters.com/blog/how-to-interview-a-project-manager/)
 
+
+## Community
+* [Facebook Project Management Professional (PMP) Study Group](https://www.facebook.com/groups/689232891150464/)
+* 
