@@ -25,6 +25,31 @@ Awesome lists about Project Management interesting topics.
   1. [The Bug Genie](http://www.thebuggenie.com/) - Written in PHP.
   1. [Trac](http://trac.edgewall.org/) - Written in python.
 
+
+## Top project management software
+Here is a list of top 21 project management software tools. The list is not in any particular order. 
+1. Azure DevOps
+1. Jira Software
+1. Microsoft Project
+1. Excel
+1. Basecamp
+1. Asana
+1. Trello
+1. ProofHub
+1. Wrike
+1. LiquidPlanner
+1. Clarizen
+1. Quire
+1. Zoho Projects
+1. ProjectManager
+1. Mavenlink
+1. ActiveCollab
+1. Avaza
+1. Teamwork
+1. Workzone
+1. Paymo
+1. Monday.com
+
   
 ## Generic Interview Questions
 - [Project Manager job interview questions](http://www.arraspeople.co.uk/project-management-careers-advice/project-manager-job-interview-questions/)
