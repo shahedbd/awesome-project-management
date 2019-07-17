@@ -1,5 +1,5 @@
 # Awesome Project Management [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-Awesome lists about Project Management interesting and useful topics.
+Awesome lists about [Project Management](https://en.wikipedia.org/wiki/Project_management)  interesting and useful topics.
 
 ## Table of Contents
 - [Top Management Tools](#Top-Management-Tools)
@@ -14,6 +14,7 @@ Awesome lists about Project Management interesting and useful topics.
 - [Find Books](#Find-Books)
 - [Videos](#Videos)
 - [Articles and Posts](#Articles-and-Posts)
+- [Best Practices](#Best-Practices)
 - [Community](#Community)
 - [Certification](#)
 - [Essential Website](#Essential-Website)
@@ -32,20 +33,15 @@ Awesome lists about Project Management interesting and useful topics.
   1. [Clubhouse](https://clubhouse.io/)
   1. [Harvest](https://www.getharvest.com/)
   1. [Hitask](https://hitask.com/)
-  1. [Pinitto](https://pinitto.me) 
+  1. [Pinitto](https://pinitto.me)
   1. [Outplanr](https://www.outplanr.com/)
   1. [Taskade](https://taskade.com/)
   1. [Notion](http://notion.so/)
   1. [Jixee](https://jixee.me/)
   1. [Teamwork.com](https://www.teamwork.com/)
   1. [Basecamp 3](https://basecamp.com)
-  1. [GitBucket](https://github.com/takezoe/gitbucket)
-  1. [GitLab](https://www.gitlab.com/)
-  1. [Gogs](http://gogs.io/)
   1. [OpenProject](https://www.openproject.org)
   1. [Phabricator](http://phabricator.org/)
-  1. [The Bug Genie](http://www.thebuggenie.com/)
-  1. [Trac](http://trac.edgewall.org/)
 
 
 ## Free Template
@@ -129,6 +125,10 @@ Awesome lists about Project Management interesting and useful topics.
 - [INSPIRED: How to Create Tech Products Customers Love](https://www.amazon.com/gp/product/B077NRB36N/ref=dbs_a_def_rwt_hsch_vapi_taft_p1_i0)
 - [Master Your Time, Master Your Life: The Breakthrough System to Get More Results, Faster, in Every Area of Your Life](https://www.amazon.com/gp/product/0399183825/ref=dbs_a_def_rwt_bibl_vppi_i9)
 - [Leadership Step by Step: Become the Person Others Follow](https://www.amazon.com/gp/product/0814437931/ref=dbs_a_def_rwt_bibl_vppi_i0)
+- [he 50 Golden Rules of Project Management: How the Best Project Managers Do It](https://www.amazon.com/gp/product/B00C7Q26Y8/ref=dbs_a_def_rwt_hsch_vapi_taft_p1_i0)
+- [Brilliant Checklists for Project Managers: Your Shortcut to Success](https://www.amazon.com/gp/product/B00SFSTKOQ/ref=dbs_a_def_rwt_hsch_vapi_taft_p1_i2)
+- [Scrappy Project Management: The 12 Predictable and Avoidable Pitfalls Every Project Faces ](https://www.amazon.com/Scrappy-Project-Management-Predictable-Avoidable/dp/1600050514)
+- [SCRUM: The Ultimate Beginner’s Guide To Learn And Master Scrum Agile Framework](https://www.amazon.com/gp/product/1721770178/ref=dbs_a_def_rwt_bibl_vppi_i2)
 
 
 
@@ -163,8 +163,15 @@ Awesome lists about Project Management interesting and useful topics.
 1. [Communication & Leadership Tips and Tricks](https://docs.google.com/document/d/1RulqUnprdgYplAE69Iun8MibvrOFXzAyDWM5PEBcbgE/edit?usp=sharing
 )
 1. [The Art of Writing User Stories](https://medium.com/@jenndodd/the-art-of-writing-user-stories-b3b6154ea4cf)
+1. [The Top 9 Reasons for IT Project Failure: Is Your Project at Risk?](https://www.askspoke.com/blog/it/reasons-for-it-project-failure/)
+1. [10 reasons why software development projects fail](https://medium.com/specstimate/10-reasons-why-software-development-projects-fail-7200e7c9ae2e)
 
 
+
+## Best Practices
+- [Best practices--the nine elements to success](https://www.pmi.org/learning/library/best-practices-effective-project-management-8922)
+- [15 Killer Project Management Best Practices for Managers](https://www.workamajig.com/blog/project-management-best-practices)
+- [Project Management Best Practice Guide](https://www.teamgantt.com/blog/project-management-best-practices)
 
 
 
@@ -187,14 +194,15 @@ Awesome lists about Project Management interesting and useful topics.
 - [Project Management Professional (PMP)®](https://www.pmi.org/certifications/types/project-management-pmp)
 - [Certified Scrum Developer®](https://www.scrumalliance.org/get-certified/developer-track/certified-scrum-developer)
 - [PMI Agile Certified Practitioner (PMI-ACP)®](https://www.pmi.org/certifications/types/agile-acp)
-
+- [Six Sigma](https://www.sixsigma-institute.org/index.php)
 
 
 ## Essential Website
 - [Agilemanifesto](https://agilemanifesto.org/)
 - [PMI | Project Management Institute](https://www.pmi.org/)
 - [Project Management Blog](https://www.knowledgehut.com/blog/category/project-management)
-
+- [CMMI Institute](https://cmmiinstitute.com/)
+- [Projectsmart](https://www.projectsmart.co.uk/)
 
 
 
