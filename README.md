@@ -7,6 +7,7 @@ Awesome lists about Project Management interesting and useful topics.
 - [Documentation Tool](#Documentation-Tool)
 - [Comminication Tool](#Comminication-Tool)
 - [Estimation](#Estimation)
+- [Requirements](#Requirements)
 - [Software Development Methodologies](#Software-Development-Methodologies)
 - [Software Development Life Cycle (SDLC)](#Software-Development-Life-Cycle-(SDLC))
 - [Books](#Books)
@@ -77,7 +78,8 @@ Awesome lists about Project Management interesting and useful topics.
 - [5 Methods of Project Estimation](https://www.liquidplanner.com/blog/5-methods-of-project-estimation/)
 
 
-
+## Requirements
+- [Writing Good Requirements](https://reqexperts.com/wp-content/uploads/2015/07/writing_good_requirements.htm)
 
 
 ## Software Development Methodologies
@@ -107,14 +109,26 @@ Awesome lists about Project Management interesting and useful topics.
 )
 - [The Lean Startup](https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898)
 - [Project Management For Dummies](https://www.amazon.com/Project-Management-Dummies-Stanley-Portny/dp/1118497236)
-- [Conflict 101](https://www.amazon.com/Conflict-101-Managers-Resolving-Problems/dp/0814417116)
+- [Conflict 101: A Manager's Guide to Resolving Problems So Everyone Can Get Back to Work](https://www.amazon.com/Conflict-101-Managers-Resolving-Problems/dp/0814417116)
 - [Agile Project Management with Scrum](https://www.amazon.com/Agile-Project-Management-Developer-Practices/dp/073561993X/)
 - [101 Tips for the Enlightened Project Manager](https://www.amazon.com/101-Tips-Enlightened-Project-Manager-ebook/dp/B00FF0HDEG)
 - [One Hundred Rules for NASA Project Managers
 ](https://www.eecs.yorku.ca/course_archive/2002-03/W/ENG2000/Nasa's_100_PM_Rules.html)
 - [PMBOK®](https://www.pmi.org/pmbok-guide-standards)
 - [SBOK®](https://www.scrumstudy.com/sbokguide/download-free-buy-sbok)
-
+- [The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change](https://www.amazon.com/Habits-Highly-Effective-People-Powerful-ebook/dp/B00GOZV3TM/)
+- [Talking to 'Crazy': How to Deal with the Irrational and Impossible People in Your Life ](https://www.amazon.com/gp/product/B0789W6FYX/ref=dbs_a_def_rwt_hsch_vapi_taft_p1_i2)
+- [Project Management For Dummies](https://www.amazon.com/Project-Management-Dummies-Stanley-Portny/dp/1118497236)
+- [Project Management: A Systems Approach to Planning, Scheduling, and Controlling](https://www.amazon.com/Project-Management-Approach-Scheduling-Controlling/dp/1118022270/)
+- [Peopleware: Productive Projects and Teams](https://www.amazon.com/Peopleware-Productive-Projects-Teams-3rd/dp/0321934113/)
+- [Good to Great: Why Some Companies Make the Leap and Others Don't](https://www.amazon.com/Good-Great-Some-Companies-Others/dp/0066620996/)
+- [Risk Up Front: Managing Projects in a Complex World](https://www.amazon.com/gp/product/B07DR11KRF/ref=dbs_a_def_rwt_hsch_vapi_taft_p1_i0)
+- [Principles: Life and Work](https://www.amazon.com/gp/product/B071CTK28D/ref=dbs_a_def_rwt_hsch_vapi_taft_p1_i0)
+- [PMP: Project Management Professional Exam Study Guide](https://www.amazon.com/gp/product/B079MNT9QJ/ref=dbs_a_def_rwt_hsch_vapi_taft_p1_i1)
+- [The Velocity Advantage: Make cross-functional alignment your invisible edge!](https://www.amazon.com/gp/product/B01MQOCCQC/ref=dbs_a_def_rwt_bibl_vppi_i0)
+- [INSPIRED: How to Create Tech Products Customers Love](https://www.amazon.com/gp/product/B077NRB36N/ref=dbs_a_def_rwt_hsch_vapi_taft_p1_i0)
+- [Master Your Time, Master Your Life: The Breakthrough System to Get More Results, Faster, in Every Area of Your Life](https://www.amazon.com/gp/product/0399183825/ref=dbs_a_def_rwt_bibl_vppi_i9)
+- [Leadership Step by Step: Become the Person Others Follow](https://www.amazon.com/gp/product/0814437931/ref=dbs_a_def_rwt_bibl_vppi_i0)
 
 
 
@@ -126,6 +140,10 @@ Awesome lists about Project Management interesting and useful topics.
 - [I.T. Project Management for Beginners: A Step-by-Step Guide](https://www.udemy.com/it-project-management-for-beginners-a-step-by-step-guide/)
 - [Beginner's Guide to Project Management](https://www.pluralsight.com/courses/project-management-beginners-guide)
 - [Introduction to JIRA & Agile Project Management](https://www.youtube.com/watch?v=NrHpXvDXVrw&t=658s)
+- [THE 7 HABITS OF HIGHLY EFFECTIVE PEOPLE BY STEPHEN COVEY - ANIMATED BOOK SUMMARY
+](https://www.youtube.com/watch?v=ktlTxC4QG8g)
+
+
 
 
 
