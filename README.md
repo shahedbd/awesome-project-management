@@ -142,7 +142,13 @@ Awesome lists about Project Management interesting and useful topics.
 - [Introduction to JIRA & Agile Project Management](https://www.youtube.com/watch?v=NrHpXvDXVrw&t=658s)
 - [THE 7 HABITS OF HIGHLY EFFECTIVE PEOPLE BY STEPHEN COVEY - ANIMATED BOOK SUMMARY
 ](https://www.youtube.com/watch?v=ktlTxC4QG8g)
-
+- [Learn & apply the latest PM techniques and strategies](https://www.edx.org/professional-certificate/uwashingtonx-it-project-management)
+- [IT Project Managemen](https://www.coursera.org/learn/it-project-management)
+- [Introduction to Scrum - 7 Minutes](https://www.youtube.com/watch?v=9TycLR0TqFA&t=1s)
+- [Agile Product Ownership in a Nutshell](https://www.youtube.com/watch?v=502ILHjX9EE)
+- [The Power of Scrum - Legendado](https://www.youtube.com/watch?v=eNe0UEsBalA)
+- [What is Agile?](https://www.youtube.com/watch?v=Z9QbYZh1YXY)
+- [Improve Communication Skills – Don’t look like a fool | Speak Confidently | Personality Development](https://www.youtube.com/watch?v=U42WY3FFsk8)
 
 
 
@@ -154,6 +160,9 @@ Awesome lists about Project Management interesting and useful topics.
 1. [10 Essential Project Management Skills](https://www.projectmanager.com/blog/project-management-skills)
 1. [How to Avoid 12 Common Mistakes in Project Management](https://www.projectsmart.co.uk/how-to-avoid-12-common-mistakes-in-project-management.php)
 1. [10 powerful tips for project management success](https://blog.proofhub.com/10-powerful-tips-for-project-management-success-97f3fd81e7f1)
+1. [Communication & Leadership Tips and Tricks](https://docs.google.com/document/d/1RulqUnprdgYplAE69Iun8MibvrOFXzAyDWM5PEBcbgE/edit?usp=sharing
+)
+1. [The Art of Writing User Stories](https://medium.com/@jenndodd/the-art-of-writing-user-stories-b3b6154ea4cf)
 
 
 
@@ -184,7 +193,7 @@ Awesome lists about Project Management interesting and useful topics.
 ## Essential Website
 - [Agilemanifesto](https://agilemanifesto.org/)
 - [PMI | Project Management Institute](https://www.pmi.org/)
-
+- [Project Management Blog](https://www.knowledgehut.com/blog/category/project-management)
 
 
 
