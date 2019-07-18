@@ -11,11 +11,12 @@ Awesome lists about [Project Management](https://en.wikipedia.org/wiki/Project_m
 - [Software Development Methodologies](#Software-Development-Methodologies)
 - [Software Development Life Cycle (SDLC)](#Software-Development-Life-Cycle-(SDLC))
 - [Books](#Books)
-- [Find Books](#Find-Books)
-- [Videos](#Videos)
+- [Download Book](#Download-Book)
+- [Video and Online Courses](#Video-and-Online-Courses)
 - [Articles and Posts](#Articles-and-Posts)
 - [Best Practices](#Best-Practices)
 - [Community](#Community)
+- [People](#People)
 - [Certification](#)
 - [Essential Website](#Essential-Website)
 - [Generic Interview Questions](#Generic-Interview-Questions)
@@ -132,18 +133,23 @@ Awesome lists about [Project Management](https://en.wikipedia.org/wiki/Project_m
 
 
 
-
-## Find Books
+## Download Book
 - [Free Book Download](https://b-ok.org/)
 
-## Video
+## Video and Online Courses
 - [I.T. Project Management for Beginners: A Step-by-Step Guide](https://www.udemy.com/it-project-management-for-beginners-a-step-by-step-guide/)
 - [Beginner's Guide to Project Management](https://www.pluralsight.com/courses/project-management-beginners-guide)
+- [Introduction to Project Management Principles and Practices Specialization](https://www.coursera.org/specializations/project-management)
+- [IT Project Managemen](https://www.coursera.org/learn/it-project-management)
+- [Project Management Courses](https://www.edx.org/learn/project-management)
+- [Agile Leadership Principles](https://www.classcentral.com/course/edx-agile-leadership-principles-11920)
+-[Mastering Agile Scrum Project Management](https://www.udemy.com/mastering-agile-scrum-project-management-pmi-rep/)
+- [ PRINCE2 Foundation Complete Course & 2 Practice Exams
+](https://www.udemy.com/course/prince2_exam/)
+- [Introduction to Project Management](https://learning.pmi.org/online-course/879/introduction-to-project-management)
 - [Introduction to JIRA & Agile Project Management](https://www.youtube.com/watch?v=NrHpXvDXVrw&t=658s)
 - [THE 7 HABITS OF HIGHLY EFFECTIVE PEOPLE BY STEPHEN COVEY - ANIMATED BOOK SUMMARY
 ](https://www.youtube.com/watch?v=ktlTxC4QG8g)
-- [Learn & apply the latest PM techniques and strategies](https://www.edx.org/professional-certificate/uwashingtonx-it-project-management)
-- [IT Project Managemen](https://www.coursera.org/learn/it-project-management)
 - [Introduction to Scrum - 7 Minutes](https://www.youtube.com/watch?v=9TycLR0TqFA&t=1s)
 - [Agile Product Ownership in a Nutshell](https://www.youtube.com/watch?v=502ILHjX9EE)
 - [The Power of Scrum - Legendado](https://www.youtube.com/watch?v=eNe0UEsBalA)
@@ -165,6 +171,8 @@ Awesome lists about [Project Management](https://en.wikipedia.org/wiki/Project_m
 1. [The Art of Writing User Stories](https://medium.com/@jenndodd/the-art-of-writing-user-stories-b3b6154ea4cf)
 1. [The Top 9 Reasons for IT Project Failure: Is Your Project at Risk?](https://www.askspoke.com/blog/it/reasons-for-it-project-failure/)
 1. [10 reasons why software development projects fail](https://medium.com/specstimate/10-reasons-why-software-development-projects-fail-7200e7c9ae2e)
+1. [Ultimate cheat sheet to be a successful project manager](https://blog.proofhub.com/ultimate-cheat-sheet-to-be-a-successful-project-manager-b5683b55b374)
+
 
 
 
@@ -186,6 +194,17 @@ Awesome lists about [Project Management](https://en.wikipedia.org/wiki/Project_m
 * [PMI Project, Program and Portfolio Management: #1 group for career advancement](https://www.linkedin.com/groups/2784738/)
 * [PRINCE2 & MSP - Project & Programme Management + Agile Scrum](https://www.linkedin.com/groups/51931/)
 * [Project Management Technology Trends | Blockchain Projects (BIG)](https://www.linkedin.com/groups/2237704/)
+
+## People
+- [Phil Simon](https://www.philsimon.com/)
+- [Kent Beck](https://www.kentbeck.com/)
+- [Scott Berkun](https://scottberkun.com/)
+- [Robert C. Martin (Uncle Bob)](https://blog.cleancoder.com/)
+- [Jeff Sutherland](https://www.scruminc.com/)
+- [Martin Fowler](https://martinfowler.com/)
+
+
+
 
 ## Certification
 - [Certified ScrumMaster®](https://www.scrumalliance.org/get-certified/scrum-master-track/certified-scrummaster?gclid=Cj0KCQjwjrvpBRC0ARIsAFrFuV83gz8_HJzEHVw7qwgd8lzll7SSFM-DW_cYFaU0lOx0Fm3GnmxOUhQaAlRJEALw_wcB)
