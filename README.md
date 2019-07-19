@@ -15,6 +15,7 @@ Awesome lists about [Project Management](https://en.wikipedia.org/wiki/Project_m
 - [Video and Online Courses](#Video-and-Online-Courses)
 - [Articles and Posts](#Articles-and-Posts)
 - [Best Practices](#Best-Practices)
+- [Communication](#Communication)
 - [Community](#Community)
 - [People](#People)
 - [Certification](#)
@@ -43,6 +44,7 @@ Awesome lists about [Project Management](https://en.wikipedia.org/wiki/Project_m
   1. [Basecamp 3](https://basecamp.com)
   1. [OpenProject](https://www.openproject.org)
   1. [Phabricator](http://phabricator.org/)
+  1. [Redbooth](https://redbooth.com/pricing)
 
 
 ## Free Template
@@ -130,7 +132,8 @@ Awesome lists about [Project Management](https://en.wikipedia.org/wiki/Project_m
 - [Brilliant Checklists for Project Managers: Your Shortcut to Success](https://www.amazon.com/gp/product/B00SFSTKOQ/ref=dbs_a_def_rwt_hsch_vapi_taft_p1_i2)
 - [Scrappy Project Management: The 12 Predictable and Avoidable Pitfalls Every Project Faces ](https://www.amazon.com/Scrappy-Project-Management-Predictable-Avoidable/dp/1600050514)
 - [SCRUM: The Ultimate Beginner’s Guide To Learn And Master Scrum Agile Framework](https://www.amazon.com/gp/product/1721770178/ref=dbs_a_def_rwt_bibl_vppi_i2)
-
+- [HBR Guide to Project Management](https://hbr.org/product/hbr-guide-to-project-management/11184-PBK-ENG)
+- [The Mythical Man-Month](https://www.amazon.com/Mythical-Man-Month-Software-Engineering-Anniversary-ebook/dp/B000OZ0N6M)
 
 
 ## Download Book
@@ -155,7 +158,8 @@ Awesome lists about [Project Management](https://en.wikipedia.org/wiki/Project_m
 - [The Power of Scrum - Legendado](https://www.youtube.com/watch?v=eNe0UEsBalA)
 - [What is Agile?](https://www.youtube.com/watch?v=Z9QbYZh1YXY)
 - [Improve Communication Skills – Don’t look like a fool | Speak Confidently | Personality Development](https://www.youtube.com/watch?v=U42WY3FFsk8)
-
+- [Communication Skills - How To Improve Communication Skills - 7 Unique Tips!
+](https://www.youtube.com/watch?v=mPRUNGGORDo)
 
 
 
@@ -181,6 +185,11 @@ Awesome lists about [Project Management](https://en.wikipedia.org/wiki/Project_m
 - [15 Killer Project Management Best Practices for Managers](https://www.workamajig.com/blog/project-management-best-practices)
 - [Project Management Best Practice Guide](https://www.teamgantt.com/blog/project-management-best-practices)
 
+
+## Communication
+- [8 Ways To Master The Art Of Mindful Communication](https://upliftconnect.com/8-ways-mindful-communication/)
+- [8 Ways to Master the Art of Communication](https://www.success.com/rohn-8-ways-to-master-the-art-of-communication/)
+- [10 Simple Tricks for Improving Your Communication Style](https://money.usnews.com/money/blogs/outside-voices-careers/2012/05/22/10-simple-tricks-for-improving-your-communication-style)
 
 
 
