@@ -13,10 +13,12 @@ Awesome lists about [Project Management](https://en.wikipedia.org/wiki/Project_m
 - [Books](#Books)
 - [Download Book](#Download-Book)
 - [Video and Online Courses](#Video-and-Online-Courses)
+- [Tutorial](#Tutorial)
 - [Articles and Posts](#Articles-and-Posts)
 - [Best Practices](#Best-Practices)
 - [Communication](#Communication)
 - [Community](#Community)
+- [Conference and Seminar](#Conference-and-Seminar)
 - [People](#People)
 - [Certification](#)
 - [Essential Website](#Essential-Website)
@@ -79,16 +81,34 @@ Awesome lists about [Project Management](https://en.wikipedia.org/wiki/Project_m
 
 ## Requirements
 - [Writing Good Requirements](https://reqexperts.com/wp-content/uploads/2015/07/writing_good_requirements.htm)
+- [How (and why) to write great User Stories](https://www.freecodecamp.org/news/how-and-why-to-write-great-user-stories-f5a110668246/)
+- [10 TIPS FOR WRITING GOOD USER STORIES](https://www.romanpichler.com/blog/10-tips-writing-good-user-stories/)
+- [Themes, Epics, And The Art Of Writing User Stories](https://www.knowledgehut.com/blog/agile/themes-epics-and-the-art-of-writing-user-stories)
+- [The Art of Writing User Stories](https://medium.com/@jenndodd/the-art-of-writing-user-stories-b3b6154ea4cf)
+- [User Stories – The Art of Writing Agile Requirements](https://pmihouston.org/downloads/2014_Conference_Speaker_Presentations/lithespeed_user_stories_the_art_of_writing_agile_requirements_final.pdf)
+- [How to Write a Good Requirement](https://github.com/shahedbd/awesome-project-management/blob/master/Resource/How-to-Write-a-Good-Requirement.pdf)
+
+
+
 
 
 ## Software Development Methodologies
 - [Agile](http://www.agilenutshell.com/)
 - [SCRUM](https://www.linkedin.com/pulse/introduction-scrum101-r-m-shahidul-islam-shahed-csm-csd-/)
 - [kanban](https://www.slideshare.net/shahedict/an-introduction-to-kanban-143012633)
+- [Lean](https://www.lean.org/WhatsLean/)
+- [Six Sigma](https://www.tutorialspoint.com/six_sigma/index.htm)
+- [PRINCE2](https://www.prince2.com/uk/prince2-methodology)
+- [PRiSM](https://greenprojectmanagement.org/prism-methodology)
 - [Waterfall Model](https://www.tutorialspoint.com/sdlc/sdlc_waterfall_model)
 - [Spiral Model](https://www.geeksforgeeks.org/software-engineering-spiral-model/)
-- [Extreme programming](https://en.wikipedia.org/wiki/Extreme_programming)
+- [Extreme Programming (XP)](https://en.wikipedia.org/wiki/Extreme_programming)
 - [Feature Driven Development (FDD)](http://agilemodeling.com/essays/fdd.htm)
+- [Critical Path Method (CPM)](https://www.smartsheet.com/critical-path-method)
+- [Critical Chain Project Management (CCPM)](https://tallyfy.com/critical-chain-project-management-ccpm/)
+- [Adaptive Project Framework (APF)](https://thinkthyme.com/project-management/adaptive-project-framework-methodology)
+
+
 
 
 
@@ -134,6 +154,9 @@ Awesome lists about [Project Management](https://en.wikipedia.org/wiki/Project_m
 - [SCRUM: The Ultimate Beginner’s Guide To Learn And Master Scrum Agile Framework](https://www.amazon.com/gp/product/1721770178/ref=dbs_a_def_rwt_bibl_vppi_i2)
 - [HBR Guide to Project Management](https://hbr.org/product/hbr-guide-to-project-management/11184-PBK-ENG)
 - [The Mythical Man-Month](https://www.amazon.com/Mythical-Man-Month-Software-Engineering-Anniversary-ebook/dp/B000OZ0N6M)
+- [The Harvard Business Review Manager's Handbook: The 17 Skills Leaders Need to Stand Out (HBR Handbooks)](https://www.amazon.com/Harvard-Business-Review-Managers-Handbook-ebook/dp/B01I8S26W0)
+- [97 Things Every Project Manager Should Know](https://www.amazon.com/Things-Every-Project-Manager-Should/dp/0596804164)
+
 
 
 ## Download Book
@@ -162,6 +185,13 @@ Awesome lists about [Project Management](https://en.wikipedia.org/wiki/Project_m
 ](https://www.youtube.com/watch?v=mPRUNGGORDo)
 
 
+## Tutorial
+- [Google Sheets 101: The Beginner's Guide to Online Spreadsheets](https://zapier.com/learn/google-sheets/google-sheets-tutorial/)
+- [Project Management Concepts Tutorial](https://www.tutorialspoint.com/management_concepts/)
+- [JIRA Tutorial: A Complete Guide for Beginners](https://www.guru99.com/jira-tutorial-a-complete-guide-for-beginners.html)
+- [ PRINCE2 Foundation and Practitioner Tutorial](https://www.simplilearn.com/prince2-foundation-practitioner-course-introduction-tutorial-video)
+
+
 
 
 ## Articles and Posts
@@ -184,9 +214,13 @@ Awesome lists about [Project Management](https://en.wikipedia.org/wiki/Project_m
 - [Best practices--the nine elements to success](https://www.pmi.org/learning/library/best-practices-effective-project-management-8922)
 - [15 Killer Project Management Best Practices for Managers](https://www.workamajig.com/blog/project-management-best-practices)
 - [Project Management Best Practice Guide](https://www.teamgantt.com/blog/project-management-best-practices)
+- [PROJECT MANAGEMENT SUCCESS WITH THE TOP 7 BEST PRACTICES](https://www.projectsmart.co.uk/project-management-success-with-the-top-7-best-practices.php)
+- [Don't Forget These 10 Project Management Best Practices (Infographic)](https://www.wrike.com/blog/project-management-best-practices-infographic/)
+
 
 
 ## Communication
+- [Introduction](https://www.tutorialspoint.com/management_concepts/communication_methods.htm)
 - [8 Ways To Master The Art Of Mindful Communication](https://upliftconnect.com/8-ways-mindful-communication/)
 - [8 Ways to Master the Art of Communication](https://www.success.com/rohn-8-ways-to-master-the-art-of-communication/)
 - [10 Simple Tricks for Improving Your Communication Style](https://money.usnews.com/money/blogs/outside-voices-careers/2012/05/22/10-simple-tricks-for-improving-your-communication-style)
@@ -203,6 +237,20 @@ Awesome lists about [Project Management](https://en.wikipedia.org/wiki/Project_m
 * [PMI Project, Program and Portfolio Management: #1 group for career advancement](https://www.linkedin.com/groups/2784738/)
 * [PRINCE2 & MSP - Project & Programme Management + Agile Scrum](https://www.linkedin.com/groups/51931/)
 * [Project Management Technology Trends | Blockchain Projects (BIG)](https://www.linkedin.com/groups/2237704/)
+
+
+## Conference and Seminar
+- [STATE OF AGILE REPORT](https://www.stateofagile.com)
+- [SPLASH](https://2018.splashcon.org/home)
+- [AGILE AND SCRUM 
+2019 ONLINE CONFERENCE](https://www.iil.com/agile-and-scrum-conference/)
+- [Global Scrum Gatherings](https://www.scrumalliance.org/courses-events/events/global-scrum-gathering)
+- [Agile Alliance Events](https://www.agilealliance.org/events)
+- [A Complete List of Project Management Conferences](https://www.toptal.com/project-managers/project-management-consultant/project-management-conferences)
+
+
+
+
 
 ## People
 - [Phil Simon](https://www.philsimon.com/)
