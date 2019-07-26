@@ -31,6 +31,7 @@ Awesome lists about [Project Management](https://en.wikipedia.org/wiki/Project_m
   1. [Trello](https://trello.com/)
   1. [Microsoft Project](https://products.office.com/en/project/project-and-portfolio-management-software)
   1. [Freedcamp](https://freedcamp.com/)
+  1. [Backlog](https://backlog.com/)
   1. [Asana](https://asana.com/)
   1. [Taiga](https://taiga.io/)
   1. [Asana](https://asana.com/)
@@ -63,6 +64,7 @@ Awesome lists about [Project Management](https://en.wikipedia.org/wiki/Project_m
 - [Prottapp](https://prottapp.com/)
 - [Zeplin](https://app.zeplin.io)
 - [XD](https://www.adobe.com/products/xd.html)
+- [Smartsheet](https://www.smartsheet.com/)
 
 
 
