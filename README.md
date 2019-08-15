@@ -1,4 +1,7 @@
 # Awesome Project Management [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
+![PM Banner](https://github.com/shahedbd/awesome-project-management/blob/master/Resource/pmbanner.png)
+
 Awesome lists about [Project Management](https://en.wikipedia.org/wiki/Project_management)  interesting and useful topics.
 
 ## Table of Contents
@@ -22,7 +25,8 @@ Awesome lists about [Project Management](https://en.wikipedia.org/wiki/Project_m
 - [People](#People)
 - [Certification](#)
 - [Essential Website](#Essential-Website)
-- [Generic Interview Questions](#Generic-Interview-Questions)
+- [x](#cheat-sheets)
+- [Interview](#Interview)
 
 
 ## Top Management Tools
@@ -40,7 +44,7 @@ track, and release great software.
 monthly, Small (1 - 10 users)</b>
   1. [Harvest](https://www.getharvest.com/) - Time tracking software for those who value insight. <b>Starting from free</b>
   1. [Hitask](https://hitask.com/) - Task Management Made Delightfully Simple. <b>Starting from free</b>
-  1. [Pinitto](https://pinitto.me)
+  1. [Pinitto](https://pinitto.me) - PinItTo.me is an infinite virtual corkboard. Collaborate with friends, family, or colleagues in real time in any way you want. Make plans, share ideas, play games... <b>Free to use</b>
   1. [Outplanr](https://www.outplanr.com/) - Turn to-do lists into daily work plans. <b>Starting from $15 / Month for 3 users</b>
   1. [Taskade](https://taskade.com/) - Simplify the way your team works. <b>Starting from free</b>
   1. [Notion](http://notion.so/) - Write, plan, collaborate, and get organized. Notion is all you need — in one tool. <b>Start for free, or as low as $4 a month.</b>
@@ -193,7 +197,7 @@ monthly, Small (1 - 10 users)</b>
 - [Improve Communication Skills – Don’t look like a fool | Speak Confidently | Personality Development](https://www.youtube.com/watch?v=U42WY3FFsk8)
 - [Communication Skills - How To Improve Communication Skills - 7 Unique Tips!
 ](https://www.youtube.com/watch?v=mPRUNGGORDo)
-
+- [Initiating and Planning Projects](https://www.coursera.org/learn/project-planning) - This course is part of the Introduction to Project Management Principles and Practices Specialization. 
 
 ## Tutorial
 - [Google Sheets 101: The Beginner's Guide to Online Spreadsheets](https://zapier.com/learn/google-sheets/google-sheets-tutorial/)
@@ -215,14 +219,12 @@ monthly, Small (1 - 10 users)</b>
 1. [The Art of Writing User Stories](https://medium.com/@jenndodd/the-art-of-writing-user-stories-b3b6154ea4cf)
 1. [The Top 9 Reasons for IT Project Failure: Is Your Project at Risk?](https://www.askspoke.com/blog/it/reasons-for-it-project-failure/)
 1. [10 reasons why software development projects fail](https://medium.com/specstimate/10-reasons-why-software-development-projects-fail-7200e7c9ae2e)
-1. [Ultimate cheat sheet to be a successful project manager](https://blog.proofhub.com/ultimate-cheat-sheet-to-be-a-successful-project-manager-b5683b55b374)
 1. [20 best online project management tools for developers](https://financesonline.com/20-best-online-project-management-tools-for-developers/)
 
 
 
-
 ## Best Practices
-- [Best practices--the nine elements to success](https://www.pmi.org/learning/library/best-practices-effective-project-management-8922)
+- [Best Practices: The Nine Elements to Success](https://www.pmi.org/learning/library/best-practices-effective-project-management-8922)
 - [15 Killer Project Management Best Practices for Managers](https://www.workamajig.com/blog/project-management-best-practices)
 - [Project Management Best Practice Guide](https://www.teamgantt.com/blog/project-management-best-practices)
 - [PROJECT MANAGEMENT SUCCESS WITH THE TOP 7 BEST PRACTICES](https://www.projectsmart.co.uk/project-management-success-with-the-top-7-best-practices.php)
@@ -262,7 +264,6 @@ monthly, Small (1 - 10 users)</b>
 
 
 
-
 ## People
 - [Phil Simon](https://www.philsimon.com/)
 - [Kent Beck](https://www.kentbeck.com/)
@@ -270,7 +271,6 @@ monthly, Small (1 - 10 users)</b>
 - [Robert C. Martin (Uncle Bob)](https://blog.cleancoder.com/)
 - [Jeff Sutherland](https://www.scruminc.com/)
 - [Martin Fowler](https://martinfowler.com/)
-
 
 
 
@@ -292,9 +292,13 @@ monthly, Small (1 - 10 users)</b>
 - [Projectsmart](https://www.projectsmart.co.uk/)
 
 
+## Cheat Sheets
+- [Project Management Cheat Sheet](https://github.com/cheat-sheets/project-management-cheat-sheet)
+- [Ultimate cheat sheet to be a successful project manager](https://blog.proofhub.com/ultimate-cheat-sheet-to-be-a-successful-project-manager-b5683b55b374)
+- [Project Management Cheat Sheet by NatalieMoore](https://www.cheatography.com/nataliemoore/cheat-sheets/project-management/)
 
 
-## Generic Interview Questions
+## Interview
 - [Project Manager job interview questions](http://www.arraspeople.co.uk/project-management-careers-advice/project-manager-job-interview-questions/)
 - [PM interview questions](http://www.best-job-interview.com/project-management-interview-questions.html)
 - [PM top 3 questions](http://www.villanovau.com/resources/project-management/project-management-top-3-questions/#.V7ZDL2QrJE4)
@@ -302,10 +306,11 @@ monthly, Small (1 - 10 users)</b>
 - [PM interview](http://www.monster.com/career-advice/article/project-manager-interview)
 - [How to interview PM](http://hiring.monster.com/hr/hr-best-practices/small-business/conducting-an-interview/how-to-interview-project-manager.aspx)
 - [10 killer interview questions hiring PM](https://www.liquidplanner.com/blog/10-killer-interview-questions-hiring-project-managers/)
-- [21 tom interview questionsPM job tersa](https://www.linkedin.com/pulse/21-top-interview-questions-project-manager-job-teresa)
-- [candidate interview questions](https://collegegrad.com/questions)
+- [21 Top Interview Questions](https://www.linkedin.com/pulse/21-top-interview-questions-project-manager-job-teresa)
+- [Candidate interview questions](https://collegegrad.com/questions)
 - [How to interview a PM](https://www.smartrecruiters.com/blog/how-to-interview-a-project-manager/)
-
+- [Cracking the PM Interview](http://www.crackingthepminterview.com/) - Cracking the PM Interview is a comprehensive book on landing a product management role in startups or bigger tech companies. 
+- [Interview Cheatsheet](https://yangshun.github.io/tech-interview-handbook/cheatsheet/) - This is a straight-to-the-point, distilled list of technical interview Do's and Don'ts, mainly for algorithmic interviews. Some of these may apply to only phone screens or whiteboard interviews, but most will apply to both. I revise this list before each of my interviews to remind myself of them and eventually internalized all of them to the point I do not have to rely on it anymore.
 
 
 License
