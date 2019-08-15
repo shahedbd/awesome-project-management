@@ -26,27 +26,32 @@ Awesome lists about [Project Management](https://en.wikipedia.org/wiki/Project_m
 
 
 ## Top Management Tools
-  1. [Jira](https://jira.com)
-  1. [Redmine](http://www.redmine.org/)
-  1. [Trello](https://trello.com/)
-  1. [Microsoft Project](https://products.office.com/en/project/project-and-portfolio-management-software)
-  1. [Freedcamp](https://freedcamp.com/)
-  1. [Asana](https://asana.com/)
-  1. [Taiga](https://taiga.io/)
-  1. [Asana](https://asana.com/)
-  1. [Clubhouse](https://clubhouse.io/)
-  1. [Harvest](https://www.getharvest.com/)
-  1. [Hitask](https://hitask.com/)
+  1. [Jira](https://jira.com) - Jira Software is built for every member of your software team to plan,
+track, and release great software.
+<b>Starting from $10 / month. Flat rate For 1 - 10 users</b>
+  1. [Redmine](http://www.redmine.org/) - Redmine is a flexible project management web application. Written using the Ruby on Rails framework, it is cross-platform and cross-database. <b>Free. Open Source. Simple to use.</b>
+  1. [Trello](https://trello.com/) - Trello’s boards, lists, and cards enable you to organize and prioritize your projects in a fun, flexible, and rewarding way. <b>It's Free</b>
+  1. [Microsoft Project](https://products.office.com/en/project/project-and-portfolio-management-software) - Streamline project, resource, and portfolio management with Microsoft Project to help you keep track of projects successfully. <b>Starting from $7.00 (user/month), Project Online Essentials</b>
+  1. [Freedcamp](https://freedcamp.com/) - Whether you have wedding plans, organizing a camping trip or leading a work project. Working from home or at the office. Freedcamp is in the center of it all. <b>Free and starting from $1.49 per user / month</b>
+  1. [Backlog](https://backlog.com/) - Online project management tool for developers. <b>Free and starting from $35 for 30 users per / month</b>
+  1. [Taiga](https://taiga.io/) - Taiga is a project management platform for agile developers & designers and project managers who want a beautiful tool that makes work truly enjoyable. <b>Free. Open Source. Simple to use.</b>
+  1. [Asana](https://asana.com/) - Asana is the work management platform teams use to stay focused on the goals, projects, and daily tasks that grow business. <b>Starting from $9.9 (user/month), Premium</b> 
+  1. [Clubhouse](https://clubhouse.io/) - Clubhouse is the first project management platform for software development that brings everyone on every team together to build better products. <b>Starting from $8.33
+monthly, Small (1 - 10 users)</b>
+  1. [Harvest](https://www.getharvest.com/) - Time tracking software for those who value insight. <b>Starting from free</b>
+  1. [Hitask](https://hitask.com/) - Task Management Made Delightfully Simple. <b>Starting from free</b>
   1. [Pinitto](https://pinitto.me)
-  1. [Outplanr](https://www.outplanr.com/)
-  1. [Taskade](https://taskade.com/)
-  1. [Notion](http://notion.so/)
-  1. [Jixee](https://jixee.me/)
-  1. [Teamwork.com](https://www.teamwork.com/)
-  1. [Basecamp 3](https://basecamp.com)
-  1. [OpenProject](https://www.openproject.org)
-  1. [Phabricator](http://phabricator.org/)
-  1. [Redbooth](https://redbooth.com/pricing)
+  1. [Outplanr](https://www.outplanr.com/) - Turn to-do lists into daily work plans. <b>Starting from $15 / Month for 3 users</b>
+  1. [Taskade](https://taskade.com/) - Simplify the way your team works. <b>Starting from free</b>
+  1. [Notion](http://notion.so/) - Write, plan, collaborate, and get organized. Notion is all you need — in one tool. <b>Start for free, or as low as $4 a month.</b>
+  1. [Jixee](https://jixee.me/) - Task and Communication Hub For Developers. <b>Startig from $19/month</b>
+  1. [Teamwork.com](https://www.teamwork.com/) - Project management software that lets you own the big picture. <b>Starting from free, max 5 user</b>
+  1. [Basecamp](https://basecamp.com) - All growing businesses run into the same fundamental problems. Hair on fire, buried under email, stuff everywhere. <b>Free for 30 days</b>
+  1. [OpenProject](https://www.openproject.org) - OpenProject is the leading open source project management software. <b>Startig from Free</b>
+  1. [Phabricator](http://phabricator.org/) - Phabricator is a set of tools that help companies build better software, faster. <b>Local Install Completely Free</b>
+  1. [Redbooth](https://redbooth.com/pricing) - Flexible Project Management software that scales with your team. <b>Starting from $9 /user/month</b>
+  1. [Bitrix24](https://www.bitrix24.com) - Stunningly beautiful websites and landing pages, ready to help you sell your products and services in minutes. <b>Free for 12 users</b>
+    
 
 
 ## Free Template
@@ -156,6 +161,10 @@ Awesome lists about [Project Management](https://en.wikipedia.org/wiki/Project_m
 - [The Mythical Man-Month](https://www.amazon.com/Mythical-Man-Month-Software-Engineering-Anniversary-ebook/dp/B000OZ0N6M)
 - [The Harvard Business Review Manager's Handbook: The 17 Skills Leaders Need to Stand Out (HBR Handbooks)](https://www.amazon.com/Harvard-Business-Review-Managers-Handbook-ebook/dp/B01I8S26W0)
 - [97 Things Every Project Manager Should Know](https://www.amazon.com/Things-Every-Project-Manager-Should/dp/0596804164)
+- [Agile Retrospectives: Making Good Teams Great](https://www.amazon.com/Agile-Retrospectives-Making-Teams-Great/dp/0977616649)
+- [Essential Scrum](https://www.amazon.com/Essential-Scrum-Practical-Addison-Wesley-Signature/dp/0137043295)
+- [Scrum Shortcuts Without Cutting Corners: Agile Tactics, Tools & Tips](https://www.amazon.com/Scrum-Shortcuts-Without-Cutting-Corners/dp/0321822366)
+
 
 
 
@@ -206,6 +215,7 @@ Awesome lists about [Project Management](https://en.wikipedia.org/wiki/Project_m
 1. [The Top 9 Reasons for IT Project Failure: Is Your Project at Risk?](https://www.askspoke.com/blog/it/reasons-for-it-project-failure/)
 1. [10 reasons why software development projects fail](https://medium.com/specstimate/10-reasons-why-software-development-projects-fail-7200e7c9ae2e)
 1. [Ultimate cheat sheet to be a successful project manager](https://blog.proofhub.com/ultimate-cheat-sheet-to-be-a-successful-project-manager-b5683b55b374)
+1. [20 best online project management tools for developers](https://financesonline.com/20-best-online-project-management-tools-for-developers/)
 
 
 
@@ -296,3 +306,8 @@ Awesome lists about [Project Management](https://en.wikipedia.org/wiki/Project_m
 - [How to interview a PM](https://www.smartrecruiters.com/blog/how-to-interview-a-project-manager/)
 
 
+
+License
+----
+
+MIT
