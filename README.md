@@ -24,7 +24,7 @@ This Awesome list about [Project Management](https://en.wikipedia.org/wiki/Proje
 - [People](#People)
 - [Certification](#)
 - [Essential Website](#Essential-Website)
-- [x](#cheat-sheets)
+- [Cheat Sheets](#cheat-sheets)
 - [Interview](#Interview)
 
 
