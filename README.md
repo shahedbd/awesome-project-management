@@ -7,7 +7,8 @@ This Awesome list about [Project Management](https://en.wikipedia.org/wiki/Proje
 - [Top Management Tools](#Top-Management-Tools)
 - [Free Template](#Free-Template)
 - [Documentation Tool](#Documentation-Tool)
-- [Comminication Tool](#Comminication-Tool)
+- [Communication Tool](#Communication-Tool)
+- [Version Control Tool](#Version-Control-Tool)
 - [Estimation](#Estimation)
 - [Requirements](#Requirements)
 - [Software Development Methodologies](#Software-Development-Methodologies)
@@ -94,11 +95,26 @@ monthly, Small (1 - 10 users)</b>
 
 
 
-## Comminication Tool
+## Communication Tool
 - [Slack](https://slack.com/intl/en-bd/)
 - [Skype](https://www.skype.com/en/)
 - [Hangouts](https://hangouts.google.com/)
 - [Zoom](https://zoom.us/)
+- [Telegram](https://telegram.org/)
+- [Fleep](https://fleep.io/)
+- [Rocket](https://rocket.chat/)
+- [Gsuite](https://gsuite.google.com/)
+- [Microsoft Teams](https://teams.microsoft.com/downloads)
+
+
+## Version Control Tool
+- [Github](https://github.com/)
+- [Gitlab](https://about.gitlab.com/)
+- [Bitbucket](https://bitbucket.org/product/)
+- [Beanstalkapp](https://beanstalkapp.com/)
+- [Launchpad](https://launchpad.net/)
+- [Sourceforge](https://sourceforge.net/)
+- [Gitea](https://gitea.io/en-us/)
 
 
 ## Estimation
