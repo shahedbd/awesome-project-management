@@ -1,6 +1,6 @@
 # Awesome Project Management [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-This Awesome list about [Project Management](https://en.wikipedia.org/wiki/Project_management)  interesting and useful topics. <br />
+This Awesome list about [Project Management](https://en.wikipedia.org/wiki/Project_management)  interesting and useful topics. <br /><br />
 ![PM Banner](https://github.com/shahedbd/awesome-project-management/blob/master/Resource/pmbanner.png)
 
 ## Table of Contents
