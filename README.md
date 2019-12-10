@@ -1,13 +1,14 @@
 # Awesome Project Management [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-This Awesome list about [Project Management](https://en.wikipedia.org/wiki/Project_management)  interesting and useful topics. <br />
+This Awesome list about [Project Management](https://en.wikipedia.org/wiki/Project_management)  interesting and useful topics. <br /><br />
 ![PM Banner](https://github.com/shahedbd/awesome-project-management/blob/master/Resource/pmbanner.png)
 
 ## Table of Contents
 - [Top Management Tools](#Top-Management-Tools)
 - [Free Template](#Free-Template)
 - [Documentation Tool](#Documentation-Tool)
-- [Comminication Tool](#Comminication-Tool)
+- [Communication Tool](#Communication-Tool)
+- [Version Control Tool](#Version-Control-Tool)
 - [Estimation](#Estimation)
 - [Requirements](#Requirements)
 - [Software Development Methodologies](#Software-Development-Methodologies)
@@ -24,7 +25,7 @@ This Awesome list about [Project Management](https://en.wikipedia.org/wiki/Proje
 - [People](#People)
 - [Certification](#)
 - [Essential Website](#Essential-Website)
-- [x](#cheat-sheets)
+- [Cheat Sheets](#cheat-sheets)
 - [Interview](#Interview)
 
 
@@ -34,6 +35,20 @@ track, and release great software.
 <b>Starting from $10 / month. Flat rate For 1 - 10 users</b>
   1. [Redmine](http://www.redmine.org/) - Redmine is a flexible project management web application. Written using the Ruby on Rails framework, it is cross-platform and cross-database. <b>Free. Open Source. Simple to use.</b>
   1. [Trello](https://trello.com/) - Trello’s boards, lists, and cards enable you to organize and prioritize your projects in a fun, flexible, and rewarding way. <b>It's Free</b>
+
+  1. [Wrike](https://www.wrike.com) - Leading Work Management Solution to Streamline Workflow to Gain Visibility to Simplify Planningy. <b>It's Free for limited usages</b>
+
+  1. [ClickUp](https://clickup.com/) - The productivity platform. Create. Plan. Organize. Everything. <b>It's Free for limited usages</b>
+
+  1. [Monday](https://monday.com/) - A new way to manage your work. <b>It's Free for limited usages</b>
+  
+  1. [Hive](https://hive.com) - The productivity platform. <b>It's Free for limited usages</b>
+  
+  1. [TeamGantt](https://www.teamgantt.com/) - Meet deadlines, streamline team communication, and keep everyone updated and happy. <b>It's Free for limited usages</b>
+
+  1. [Airtable](https://airtable.com/) - Part spreadsheet, part database, and entirely flexible, teams use Airtable to organize their work, their way. <b>It's Free for limited usages</b>
+
+
   1. [Microsoft Project](https://products.office.com/en/project/project-and-portfolio-management-software) - Streamline project, resource, and portfolio management with Microsoft Project to help you keep track of projects successfully. <b>Starting from $7.00 (user/month), Project Online Essentials</b>
   1. [Freedcamp](https://freedcamp.com/) - Whether you have wedding plans, organizing a camping trip or leading a work project. Working from home or at the office. Freedcamp is in the center of it all. <b>Free and starting from $1.49 per user / month</b>
   1. [Backlog](https://backlog.com/) - Online project management tool for developers. <b>Free and starting from $35 for 30 users per / month</b>
@@ -80,11 +95,26 @@ monthly, Small (1 - 10 users)</b>
 
 
 
-## Comminication Tool
+## Communication Tool
 - [Slack](https://slack.com/intl/en-bd/)
 - [Skype](https://www.skype.com/en/)
 - [Hangouts](https://hangouts.google.com/)
 - [Zoom](https://zoom.us/)
+- [Telegram](https://telegram.org/)
+- [Fleep](https://fleep.io/)
+- [Rocket](https://rocket.chat/)
+- [Gsuite](https://gsuite.google.com/)
+- [Microsoft Teams](https://teams.microsoft.com/downloads)
+
+
+## Version Control Tool
+- [Github](https://github.com/)
+- [Gitlab](https://about.gitlab.com/)
+- [Bitbucket](https://bitbucket.org/product/)
+- [Beanstalkapp](https://beanstalkapp.com/)
+- [Launchpad](https://launchpad.net/)
+- [Sourceforge](https://sourceforge.net/)
+- [Gitea](https://gitea.io/en-us/)
 
 
 ## Estimation
