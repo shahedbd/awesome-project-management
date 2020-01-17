@@ -12,7 +12,7 @@ This Awesome list about [Project Management](https://en.wikipedia.org/wiki/Proje
 - [Estimation](#Estimation)
 - [Requirements](#Requirements)
 - [Software Development Methodologies](#Software-Development-Methodologies)
-- [Software Development Life Cycle (SDLC)](#Software-Development-Life-Cycle-(SDLC))
+- [Software Development Life Cycle-SDLC](#Software-Development-Life-Cycle-SDLC)
 - [Books](#Books)
 - [Download Book](#Download-Book)
 - [Video and Online Courses](#Video-and-Online-Courses)
@@ -69,6 +69,7 @@ monthly, Small (1 - 10 users)</b>
   1. [Phabricator](http://phabricator.org/) - Phabricator is a set of tools that help companies build better software, faster. <b>Local Install Completely Free</b>
   1. [Redbooth](https://redbooth.com/pricing) - Flexible Project Management software that scales with your team. <b>Starting from $9 /user/month</b>
   1. [Bitrix24](https://www.bitrix24.com) - Stunningly beautiful websites and landing pages, ready to help you sell your products and services in minutes. <b>Free for 12 users</b>
+  1. [Clubhouse](https://clubhouse.io/) - Clubhouse is the first project management platform for software development that brings everyone on every team together to build better products. <b>Free for 1-10 users</b>
     
 
 
@@ -81,6 +82,10 @@ monthly, Small (1 - 10 users)</b>
 ](https://docs.google.com/spreadsheets/d/1MX3h0ivStnAhp_jG57xYcEx2syOkw06wIbrGLs0aVg0/edit#gid=0)
 - [Project Timeline (Marine Theme)](https://docs.google.com/spreadsheets/d/1dVpGMH7Xkp9ZlO4K-5Khwh_bn0w7_lMfW-C6KmCMuYk/template/preview?usp=drive_web&ouid=%7BuserId%7D)
 - [IEEE Software Requirements Specification Template](https://web.cs.dal.ca/~hawkey/3130/srs_template-ieee.doc)
+- [Weekly Timesheet Template](https://docs.google.com/spreadsheets/d/1_QJBA_xqLCCcvgG7XYmcUufWP6AYQOpFMBo_HDFuHIs/edit#gid=2050313977)
+- [GANTT CHART TEMPLATE](https://docs.google.com/spreadsheets/d/1JcX4sHAuBRGsbXIgktxj5n72sMyFQutQyqJ7R_xQCCU/edit#gid=0)
+- [To-Do-List](https://docs.google.com/spreadsheets/d/1MYbKR3F_AmFbSqcY2hUK0QVdRfqPdvz0pRsmtNfl-tE/edit#gid=0)
+
 
 
 ## Documentation Tool
@@ -156,7 +161,7 @@ monthly, Small (1 - 10 users)</b>
 
 
 
-## Software Development Life Cycle (SDLC)
+## Software Development Life Cycle-SDLC
 - [Wiki](https://en.wikipedia.org/wiki/Systems_development_life_cycle)
 - [SDLC (Software Development Life Cycle) Tutorial: What is, Phases, Model](https://www.guru99.com/software-development-life-cycle-tutorial.html)
 - [SDLC - Overview
@@ -333,18 +338,15 @@ monthly, Small (1 - 10 users)</b>
 
 
 ## Interview
-- [Project Manager job interview questions](http://www.arraspeople.co.uk/project-management-careers-advice/project-manager-job-interview-questions/)
-- [PM interview questions](http://www.best-job-interview.com/project-management-interview-questions.html)
-- [PM top 3 questions](http://www.villanovau.com/resources/project-management/project-management-top-3-questions/#.V7ZDL2QrJE4)
-- [ 5 interview questions your pm candidate doesnt want you to ask](http://www.blogging4jobs.com/job-search/5-interview-questions-your-pm-candidate-doesnt-want-you-to-ask/#wPBAcoSm6p7s1uuL.97)
-- [PM interview](http://www.monster.com/career-advice/article/project-manager-interview)
-- [How to interview PM](http://hiring.monster.com/hr/hr-best-practices/small-business/conducting-an-interview/how-to-interview-project-manager.aspx)
-- [10 killer interview questions hiring PM](https://www.liquidplanner.com/blog/10-killer-interview-questions-hiring-project-managers/)
-- [21 Top Interview Questions](https://www.linkedin.com/pulse/21-top-interview-questions-project-manager-job-teresa)
-- [Candidate interview questions](https://collegegrad.com/questions)
-- [How to interview a PM](https://www.smartrecruiters.com/blog/how-to-interview-a-project-manager/)
-- [Cracking the PM Interview](http://www.crackingthepminterview.com/) - Cracking the PM Interview is a comprehensive book on landing a product management role in startups or bigger tech companies. 
+- [Cracking the PM Interview](http://www.crackingthepminterview.com/) - Cracking the PM Interview is a comprehensive book on landing a product management role in startups or bigger tech companies.
 - [Interview Cheatsheet](https://yangshun.github.io/tech-interview-handbook/cheatsheet/) - This is a straight-to-the-point, distilled list of technical interview Do's and Don'ts, mainly for algorithmic interviews. Some of these may apply to only phone screens or whiteboard interviews, but most will apply to both. I revise this list before each of my interviews to remind myself of them and eventually internalized all of them to the point I do not have to rely on it anymore.
+- [21 Top Interview Questions](https://www.linkedin.com/pulse/21-top-interview-questions-project-manager-job-teresa) - As an active Project Manager and PMP who is often asked to interview candidates, my focus is to find out if they will be able to complete those “on time and under budget” projects while keeping the team calm, cool, and productive.   
+- [Top 30 Project Manager Interview Questions You Need to Know in 2020](https://www.edureka.co/blog/interview-questions/top-30-project-management-interview-questions-2016/) - Project Management is the discipline that helps in organizing and managing the objectives of a project in a controlled manner to produce unique outcomes. The profession of the project manager traces back to the early 19th century but was not recognized as a distinct profession until the late 20th century. But in today’s market, it is recognized as one of the most reputed professions offering a lucrative salary. But grasping it is definitely not a piece of cake, where you will have to compete with others across the globe. In this Top 30 Project Manager Interview Questions article, I will help you in gearing up for your interview and ace it.
+- [Top 30 Project Management Interview Questions and Answers](https://www.whizlabs.com/blog/project-management-interview-questions-answers/) - Here you are at the right place to find top project management interview questions that will definitely help you to crack the interview for the job of project manager. We’ve divided this blog into different sections, so let’s start with the basic project manager interview questions and answers.
+- [IT project manager job interview questions and answers](https://www.randstad.co.uk/career-advice/interview-guidance/it-project-manager-job-interview-questions-and-answers/) - In order to help candidates throughout the preparation process, we gathered 30 commonly asked interview questions and answers for project manager candidates and 10 questions you should ask the employer. 
+- [PM top 3 questions](http://www.villanovau.com/resources/project-management/project-management-top-3-questions/#.V7ZDL2QrJE4) - When you’re preparing to interview for a project manager job, it’s important to know what types of questions you’re likely to get and how to respond to them. Whether you’re applying for a full-time position or pitching your services as an independent consultant, your answers to these questions will not only help determine whether you get the job but also your potential for success as a project manager.
+- [10 killer interview questions hiring PM](https://www.liquidplanner.com/blog/10-killer-interview-questions-hiring-project-managers/) - Interviewing project management for open positions is something I have had to do but I don’t find it easy. How do you know what to ask? And how do you use what is normally a really short period of time to let the candidate show themselves in the best possible light?
+- [10 Important Areas of Project Management Interview Questions and Answers](https://www.simplilearn.com/project-management-interview-questions-and-answers-article) - Senior executives and HR managers recognize project management as indispensable to business success. They know that skilled and credentialed project managers are among their most valuable resources. The Project Management Institute reports in a survey that in the U.S., over $122 million gets wasted for every $1 billion invested due to poor project performance. When it comes to hiring qualified project managers, things get a little tricky, and candidates are reviewed in several ways.
 
 
 License
