@@ -321,6 +321,10 @@ monthly, Small (1 - 10 users)</b>
 - [Certified Scrum Developer®](https://www.scrumalliance.org/get-certified/developer-track/certified-scrum-developer)
 - [PMI Agile Certified Practitioner (PMI-ACP)®](https://www.pmi.org/certifications/types/agile-acp)
 - [Six Sigma](https://www.sixsigma-institute.org/index.php)
+- [Management 3.0](https://management30.com/)
+- [Certified Associate in Project Management (CAPM)®](https://www.pmi.org/certifications/types/certified-associate-capm)
+- [PMI Risk Management Professional (PMI-RMP)®](https://www.pmi.org/certifications/types/risk-management-rmp)
+
 
 
 ## Essential Website
