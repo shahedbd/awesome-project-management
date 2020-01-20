@@ -85,6 +85,9 @@ monthly, Small (1 - 10 users)</b>
 - [Weekly Timesheet Template](https://docs.google.com/spreadsheets/d/1_QJBA_xqLCCcvgG7XYmcUufWP6AYQOpFMBo_HDFuHIs/edit#gid=2050313977)
 - [GANTT CHART TEMPLATE](https://docs.google.com/spreadsheets/d/1JcX4sHAuBRGsbXIgktxj5n72sMyFQutQyqJ7R_xQCCU/edit#gid=0)
 - [To-Do-List](https://docs.google.com/spreadsheets/d/1MYbKR3F_AmFbSqcY2hUK0QVdRfqPdvz0pRsmtNfl-tE/edit#gid=0)
+- [High Level Project Estimation](https://docs.google.com/spreadsheets/d/1rZuor1LssjoSD-C3_Ah8sgHovGvuJb9kiTidIFzAZw4/edit#gid=0)
+- [Project Start to End Generic Checklist](https://docs.google.com/document/d/1G2myzHQ4xDbeJPscMXN-PRNZq93zpjh9hie3UzRYojw/edit?usp=sharing)
+- [Project Charter Template](https://docs.google.com/document/d/1SwQ8DwDkRfsvG3YmLF7ewjG2AyNdJZoqJU7QlT04GpI/edit?usp=sharing)
 
 
 
