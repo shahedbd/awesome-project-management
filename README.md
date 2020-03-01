@@ -4,29 +4,29 @@ This Awesome list about [Project Management](https://en.wikipedia.org/wiki/Proje
 ![PM Banner](https://github.com/shahedbd/awesome-project-management/blob/master/Resource/pmbanner.png)
 
 ## Table of Contents
-- [Top Management Tools](#Top-Management-Tools)
-- [Free Template](#Free-Template)
-- [Documentation Tool](#Documentation-Tool)
-- [Communication Tool](#Communication-Tool)
-- [Version Control Tool](#Version-Control-Tool)
-- [Estimation](#Estimation)
-- [Requirements](#Requirements)
-- [Software Development Methodologies](#Software-Development-Methodologies)
-- [Software Development Life Cycle-SDLC](#Software-Development-Life-Cycle-SDLC)
-- [Books](#Books)
-- [Download Book](#Download-Book)
-- [Video and Online Courses](#Video-and-Online-Courses)
-- [Tutorial](#Tutorial)
-- [Articles and Posts](#Articles-and-Posts)
-- [Best Practices](#Best-Practices)
-- [Communication](#Communication)
-- [Community](#Community)
-- [Conference and Seminar](#Conference-and-Seminar)
-- [People](#People)
-- [Certification](#)
-- [Essential Website](#Essential-Website)
-- [Cheat Sheets](#cheat-sheets)
-- [Interview](#Interview)
+1. [Top Management Tools](#Top-Management-Tools)
+1. [Free Template](#Free-Template)
+1. [Documentation Tool](#Documentation-Tool)
+1. [Communication Tool](#Communication-Tool)
+1. [Version Control Tool](#Version-Control-Tool)
+1. [Estimation](#Estimation)
+1. [Requirements](#Requirements)
+1. [Software Development Methodologies](#Software-Development-Methodologies)
+1. [Software Development Life Cycle-SDLC](#Software-Development-Life-Cycle-SDLC)
+1. [Books](#Books)
+1. [Download Book](#Download-Book)
+1. [Video and Online Courses](#Video-and-Online-Courses)
+1. [Tutorial](#Tutorial)
+1. [Articles and Posts](#Articles-and-Posts)
+1. [Best Practices](#Best-Practices)
+1. [Communication](#Communication)
+1. [Community](#Community)
+1. [Conference and Seminar](#Conference-and-Seminar)
+1. [People](#People)
+1. [Certification](#)
+1. [Essential Website](#Essential-Website)
+1. [Cheat Sheets](#cheat-sheets)
+1. [Interview](#Interview)
 
 
 ## Top Management Tools
@@ -69,7 +69,6 @@ monthly, Small (1 - 10 users)</b>
   1. [Phabricator](http://phabricator.org/) - Phabricator is a set of tools that help companies build better software, faster. <b>Local Install Completely Free</b>
   1. [Redbooth](https://redbooth.com/pricing) - Flexible Project Management software that scales with your team. <b>Starting from $9 /user/month</b>
   1. [Bitrix24](https://www.bitrix24.com) - Stunningly beautiful websites and landing pages, ready to help you sell your products and services in minutes. <b>Free for 12 users</b>
-  1. [Clubhouse](https://clubhouse.io/) - Clubhouse is the first project management platform for software development that brings everyone on every team together to build better products. <b>Free for 1-10 users</b>
     
 
 
@@ -84,7 +83,7 @@ monthly, Small (1 - 10 users)</b>
 - [IEEE Software Requirements Specification Template](https://web.cs.dal.ca/~hawkey/3130/srs_template-ieee.doc)
 - [Weekly Timesheet Template](https://docs.google.com/spreadsheets/d/1_QJBA_xqLCCcvgG7XYmcUufWP6AYQOpFMBo_HDFuHIs/edit#gid=2050313977)
 - [GANTT CHART TEMPLATE](https://docs.google.com/spreadsheets/d/1JcX4sHAuBRGsbXIgktxj5n72sMyFQutQyqJ7R_xQCCU/edit#gid=0)
-- [To-Do-List](https://docs.google.com/spreadsheets/d/1MYbKR3F_AmFbSqcY2hUK0QVdRfqPdvz0pRsmtNfl-tE/edit#gid=0)
+- [To-Do-List](https://docs.google.com/spreadsheets/d/1MYbKR3F_AmFbSqcY2hUK0QVdRfqPdvz0pRsmtNfl-tE/edit?usp=sharing)
 - [High Level Project Estimation](https://docs.google.com/spreadsheets/d/1rZuor1LssjoSD-C3_Ah8sgHovGvuJb9kiTidIFzAZw4/edit#gid=0)
 - [Project Start to End Generic Checklist](https://docs.google.com/document/d/1G2myzHQ4xDbeJPscMXN-PRNZq93zpjh9hie3UzRYojw/edit?usp=sharing)
 - [Project Charter Template](https://docs.google.com/document/d/1SwQ8DwDkRfsvG3YmLF7ewjG2AyNdJZoqJU7QlT04GpI/edit?usp=sharing)
@@ -261,7 +260,6 @@ monthly, Small (1 - 10 users)</b>
 1. [The Art of Writing User Stories](https://medium.com/@jenndodd/the-art-of-writing-user-stories-b3b6154ea4cf)
 1. [The Top 9 Reasons for IT Project Failure: Is Your Project at Risk?](https://www.askspoke.com/blog/it/reasons-for-it-project-failure/)
 1. [10 reasons why software development projects fail](https://medium.com/specstimate/10-reasons-why-software-development-projects-fail-7200e7c9ae2e)
-1. [20 best online project management tools for developers](https://financesonline.com/20-best-online-project-management-tools-for-developers/)
 
 
 
@@ -292,6 +290,9 @@ monthly, Small (1 - 10 users)</b>
 * [PMI Project, Program and Portfolio Management: #1 group for career advancement](https://www.linkedin.com/groups/2784738/)
 * [PRINCE2 & MSP - Project & Programme Management + Agile Scrum](https://www.linkedin.com/groups/51931/)
 * [Project Management Technology Trends | Blockchain Projects (BIG)](https://www.linkedin.com/groups/2237704/)
+* [Slack Group-Coachingagile](https://launchpass.com/coachingagile)
+* [Slack Group-Agilepeople](https://launchpass.com/agilepeople)
+* [Slack Group-Product Manager HQ](https://www.productmanagerhq.com/join-the-community/)
 
 
 ## Conference and Seminar
@@ -313,6 +314,8 @@ monthly, Small (1 - 10 users)</b>
 - [Robert C. Martin (Uncle Bob)](https://blog.cleancoder.com/)
 - [Jeff Sutherland](https://www.scruminc.com/)
 - [Martin Fowler](https://martinfowler.com/)
+- [Mike Cohn](http://www.mountaingoatsoftware.com/)
+- [Ken Schwaber](http://www.controlchaos.com/)
 
 
 
