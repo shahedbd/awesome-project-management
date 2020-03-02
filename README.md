@@ -199,7 +199,7 @@ monthly, Small (1 - 10 users)</b>
 - [INSPIRED: How to Create Tech Products Customers Love](https://www.amazon.com/gp/product/B077NRB36N/ref=dbs_a_def_rwt_hsch_vapi_taft_p1_i0)
 - [Master Your Time, Master Your Life: The Breakthrough System to Get More Results, Faster, in Every Area of Your Life](https://www.amazon.com/gp/product/0399183825/ref=dbs_a_def_rwt_bibl_vppi_i9)
 - [Leadership Step by Step: Become the Person Others Follow](https://www.amazon.com/gp/product/0814437931/ref=dbs_a_def_rwt_bibl_vppi_i0)
-- [he 50 Golden Rules of Project Management: How the Best Project Managers Do It](https://www.amazon.com/gp/product/B00C7Q26Y8/ref=dbs_a_def_rwt_hsch_vapi_taft_p1_i0)
+- [The 50 Golden Rules of Project Management: How the Best Project Managers Do It](https://www.amazon.com/gp/product/B00C7Q26Y8/ref=dbs_a_def_rwt_hsch_vapi_taft_p1_i0)
 - [Brilliant Checklists for Project Managers: Your Shortcut to Success](https://www.amazon.com/gp/product/B00SFSTKOQ/ref=dbs_a_def_rwt_hsch_vapi_taft_p1_i2)
 - [Scrappy Project Management: The 12 Predictable and Avoidable Pitfalls Every Project Faces ](https://www.amazon.com/Scrappy-Project-Management-Predictable-Avoidable/dp/1600050514)
 - [SCRUM: The Ultimate Beginner’s Guide To Learn And Master Scrum Agile Framework](https://www.amazon.com/gp/product/1721770178/ref=dbs_a_def_rwt_bibl_vppi_i2)
