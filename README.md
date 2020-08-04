@@ -210,7 +210,7 @@ monthly, Small (1 - 10 users)</b>
 - [Agile Retrospectives: Making Good Teams Great](https://www.amazon.com/Agile-Retrospectives-Making-Teams-Great/dp/0977616649)
 - [Essential Scrum](https://www.amazon.com/Essential-Scrum-Practical-Addison-Wesley-Signature/dp/0137043295)
 - [Scrum Shortcuts Without Cutting Corners: Agile Tactics, Tools & Tips](https://www.amazon.com/Scrum-Shortcuts-Without-Cutting-Corners/dp/0321822366)
-
+- [SafeScrum® – Agile Development of Safety-Critical Software](https://www.google.com/search?kgmid=/g/11f7787mkb&hl=en-US&q=SafeScrum%C2%AE+%E2%80%93+Agile+Development+of+Safety-Critical+Software&kgs=6c7fe84fa9a417ca&shndl=0&source=sh/x/kp/osrp&entrypoint=sh/x/kp/osrp)
 
 
 
