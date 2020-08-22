@@ -4,7 +4,7 @@ This Awesome list about [Project Management](https://en.wikipedia.org/wiki/Proje
 ![PM Banner](https://github.com/shahedbd/awesome-project-management/blob/master/Resource/pmbanner.png)
 
 ## Table of Contents
-1. [Top Management Tools](#Top-Management-Tools)
+1. [Top Project Management Tool](#Top-Management-Tool)
 1. [Free Template](#Free-Template)
 1. [Documentation Tool](#Documentation-Tool)
 1. [Communication Tool](#Communication-Tool)
@@ -29,7 +29,7 @@ This Awesome list about [Project Management](https://en.wikipedia.org/wiki/Proje
 1. [Interview](#Interview)
 
 
-## Top Management Tools
+## Top Project Management Tool
   1. [Jira](https://jira.com) - Jira Software is built for every member of your software team to plan,
 track, and release great software.
 <b>Starting from $10 / month. Flat rate For 1 - 10 users</b>
@@ -103,18 +103,25 @@ monthly, Small (1 - 10 users)</b>
 
 
 ## Communication Tool
-- [Slack](https://slack.com/intl/en-bd/)
-- [Skype](https://www.skype.com/en/)
-- [Hangouts](https://hangouts.google.com/)
+- [Microsoft Teams](https://teams.microsoft.com/downloads)
 - [Zoom](https://zoom.us/)
+- [Slack](https://slack.com)
+- [Skype](https://www.skype.com)
+- [Google Meet](https://meet.google.com)
 - [Telegram](https://telegram.org/)
 - [Fleep](https://fleep.io/)
 - [Rocket](https://rocket.chat/)
-- [Gsuite](https://gsuite.google.com/)
-- [Microsoft Teams](https://teams.microsoft.com/downloads)
+- [Discord](https://discordapp.com/)
+- [House Party](https://houseparty.com/)
+- [Marcopolo](https://www.marcopolo.me/)
+- [WeChat Work](https://play.google.com/store/apps/details?id=com.tencent.wework&hl=en)
+- [Amazon Chime](https://aws.amazon.com/chime/)
+- [Go To Meeting](https://www.gotomeeting.com/)
+- [Zoho](https://www.zoho.com/meeting/)
+- [Nextiva](https://www.nextiva.com/)
 
 
-## Version Control Tool
+## Source Code Management (SCM) 
 - [Github](https://github.com/)
 - [Gitlab](https://about.gitlab.com/)
 - [Bitbucket](https://bitbucket.org/product/)
@@ -128,6 +135,10 @@ monthly, Small (1 - 10 users)</b>
 - [Agile Estimation Techniques](https://www.pmi.org/learning/library/agile-project-estimation-techniques-6110)
 - [Estimation Techniques - Overview](https://www.tutorialspoint.com/estimation_techniques/estimation_techniques_overview)
 - [5 Methods of Project Estimation](https://www.liquidplanner.com/blog/5-methods-of-project-estimation/)
+- [Project Estimation with Use Case Points](https://www.codeproject.com/Articles/9913/Project-Estimation-with-Use-Case-Points)
+- [How to Prepare Quotation Using Use Case Points](https://www.codeproject.com/Articles/9054/How-to-Prepare-Quotation-Using-Use-Case-Points)
+
+
 
 
 ## Requirements
@@ -158,16 +169,21 @@ monthly, Small (1 - 10 users)</b>
 - [Critical Path Method (CPM)](https://www.smartsheet.com/critical-path-method)
 - [Critical Chain Project Management (CCPM)](https://tallyfy.com/critical-chain-project-management-ccpm/)
 - [Adaptive Project Framework (APF)](https://thinkthyme.com/project-management/adaptive-project-framework-methodology)
-
+- [Spiral Model](https://www.guru99.com/what-is-spiral-model-when-to-use-advantages-disadvantages.html)
+- [V-Model](https://medium.com/software-engineering-kmitl/v-model-3a71622b3d82)
 
 
 
 
 ## Software Development Life Cycle-SDLC
-- [Wiki](https://en.wikipedia.org/wiki/Systems_development_life_cycle)
-- [SDLC (Software Development Life Cycle) Tutorial: What is, Phases, Model](https://www.guru99.com/software-development-life-cycle-tutorial.html)
-- [SDLC - Overview
-](https://www.tutorialspoint.com/sdlc/sdlc_overview)
+- [Wiki](https://en.wikipedia.org/wiki/Systems_development_life_cycle) - In systems engineering, information systems and software engineering, 
+the systems development life cycle (SDLC), also referred to as the application 
+development life-cycle, is a process for planning, creating, testing, and deploying an information system. 
+- [What is, Phases, Model](https://www.guru99.com/software-development-life-cycle-tutorial.html)
+- [SDLC - Overview](https://www.tutorialspoint.com/sdlc/sdlc_overview)
+
+
+
 
 ## Books
 - [Project Management Absolute Beginner's Guide](https://www.amazon.com/Project-Management-Absolute-Beginners-Guide/dp/0789756757)
@@ -210,12 +226,14 @@ monthly, Small (1 - 10 users)</b>
 - [Agile Retrospectives: Making Good Teams Great](https://www.amazon.com/Agile-Retrospectives-Making-Teams-Great/dp/0977616649)
 - [Essential Scrum](https://www.amazon.com/Essential-Scrum-Practical-Addison-Wesley-Signature/dp/0137043295)
 - [Scrum Shortcuts Without Cutting Corners: Agile Tactics, Tools & Tips](https://www.amazon.com/Scrum-Shortcuts-Without-Cutting-Corners/dp/0321822366)
-
+- [Mastering Software Project Requirements](https://www.amazon.com/Mastering-Software-Project-Requirements-Development/dp/1604270918)
 
 
 
 ## Download Book
 - [Free Book Download](https://b-ok.org/)
+
+
 
 ## Video and Online Courses
 - [I.T. Project Management for Beginners: A Step-by-Step Guide](https://www.udemy.com/it-project-management-for-beginners-a-step-by-step-guide/)
@@ -239,6 +257,8 @@ monthly, Small (1 - 10 users)</b>
 - [Communication Skills - How To Improve Communication Skills - 7 Unique Tips!
 ](https://www.youtube.com/watch?v=mPRUNGGORDo)
 - [Initiating and Planning Projects](https://www.coursera.org/learn/project-planning) - This course is part of the Introduction to Project Management Principles and Practices Specialization. 
+- [Project Planning & Management For Software & IT Engineers](https://www.udemy.com/course/the-art-of-project-management-for-software-it-engineers/) 
+
 
 ## Tutorial
 - [Google Sheets 101: The Beginner's Guide to Online Spreadsheets](https://zapier.com/learn/google-sheets/google-sheets-tutorial/)
