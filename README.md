@@ -6,8 +6,11 @@ This Awesome list about [Project Management](https://en.wikipedia.org/wiki/Proje
 ## Table of Contents
 1. [Top Project Management Tool](#Top-Management-Tool)
 1. [Free Template](#Free-Template)
-1. [Documentation Tool](#Documentation-Tool)
+1. [Design and Documentation Tool](#Design-and-Documentation-Tool)
 1. [Communication Tool](#Communication-Tool)
+1. [Productivity Tool](#Productivity-Tool)
+1. [Password Management Tool](#Password-Management-Tool)
+1. [Cloud Storage](#Cloud-Storage)
 1. [Version Control Tool](#Version-Control-Tool)
 1. [Estimation](#Estimation)
 1. [Requirements](#Requirements)
@@ -17,7 +20,7 @@ This Awesome list about [Project Management](https://en.wikipedia.org/wiki/Proje
 1. [Download Book](#Download-Book)
 1. [Video and Online Courses](#Video-and-Online-Courses)
 1. [Tutorial](#Tutorial)
-1. [Articles and Posts](#Articles-and-Posts)
+1. [Articles and Post](#Articles-and-Post)
 1. [Best Practices](#Best-Practices)
 1. [Communication](#Communication)
 1. [Community](#Community)
@@ -35,22 +38,13 @@ track, and release great software.
 <b>Starting from $10 / month. Flat rate For 1 - 10 users</b>
   1. [Redmine](http://www.redmine.org/) - Redmine is a flexible project management web application. Written using the Ruby on Rails framework, it is cross-platform and cross-database. <b>Free. Open Source. Simple to use.</b>
   1. [Trello](https://trello.com/) - Trello’s boards, lists, and cards enable you to organize and prioritize your projects in a fun, flexible, and rewarding way. <b>It's Free</b>
-
   1. [Wrike](https://www.wrike.com) - Leading Work Management Solution to Streamline Workflow to Gain Visibility to Simplify Planningy. <b>It's Free for limited usages</b>
-
   1. [ClickUp](https://clickup.com/) - The productivity platform. Create. Plan. Organize. Everything. <b>It's Free for limited usages</b>
-
   1. [Monday](https://monday.com/) - A new way to manage your work. <b>It's Free for limited usages</b>
-  
   1. [Hive](https://hive.com) - The productivity platform. <b>It's Free for limited usages</b>
-  
   1. [TeamGantt](https://www.teamgantt.com/) - Meet deadlines, streamline team communication, and keep everyone updated and happy. <b>It's Free for limited usages</b>
-
   1. [Airtable](https://airtable.com/) - Part spreadsheet, part database, and entirely flexible, teams use Airtable to organize their work, their way. <b>It's Free for limited usages</b>
-  
   1. [zipBoard](https://zipboard.co) - Bug tracking and website annotation tool, free for 1 project, pricing starts at $39/month</b>
-
-
   1. [Microsoft Project](https://products.office.com/en/project/project-and-portfolio-management-software) - Streamline project, resource, and portfolio management with Microsoft Project to help you keep track of projects successfully. <b>Starting from $7.00 (user/month), Project Online Essentials</b>
   1. [Freedcamp](https://freedcamp.com/) - Whether you have wedding plans, organizing a camping trip or leading a work project. Working from home or at the office. Freedcamp is in the center of it all. <b>Free and starting from $1.49 per user / month</b>
   1. [Backlog](https://backlog.com/) - Online project management tool for developers. <b>Free and starting from $35 for 30 users per / month</b>
@@ -92,7 +86,7 @@ monthly, Small (1 - 10 users)</b>
 
 
 
-## Documentation Tool
+## Design and Documentation Tool
 - [Gitbook](https://www.gitbook.com/)
 - [Draw.io](https://www.draw.io/)
 - [Sketch](https://www.sketch.com/)
@@ -102,6 +96,8 @@ monthly, Small (1 - 10 users)</b>
 - [Smartsheet](https://www.smartsheet.com/)
 - [Invisionapp](https://www.invisionapp.com/)
 - [Slite](https://slite.com/)
+- [Codepen](https://codepen.io/)
+- [Figma](https://www.figma.com/)
 
 
 
@@ -122,6 +118,31 @@ monthly, Small (1 - 10 users)</b>
 - [Go To Meeting](https://www.gotomeeting.com/)
 - [Zoho](https://www.zoho.com/meeting/)
 - [Nextiva](https://www.nextiva.com/)
+- [Flock](https://flock.com/)
+- [Workplace by Facebook](https://www.workplace.com/)
+
+
+
+## Productivity Tool
+- [OneNote](https://www.onenote.com/)
+- [Evernote](https://evernote.com/)
+- [Azendoo](https://www.azendoo.com/)
+- [Google Keep](https://keep.google.com/)
+
+
+## Password Management Tool
+- [Dashlane](https://www.dashlane.com/)
+- [1password](https://1password.com/)
+- [Lastpass](https://www.lastpass.com/)
+
+
+## Cloud Storage
+- [Google Drive](https://www.google.com/drive/)
+- [Dropbox](https://www.dropbox.com/)
+- [Box](https://www.box.com/home)
+- [Huddle](https://www.huddle.com/)
+- [One Hub](https://www.onehub.com/)
+- [One Drive](https://www.microsoft.com/en-us/microsoft-365/onedrive/compare-onedrive-plans)
 
 
 ## Source Code Management (SCM) 
@@ -134,13 +155,13 @@ monthly, Small (1 - 10 users)</b>
 - [Gitea](https://gitea.io/en-us/)
 
 
+
 ## Estimation
 - [Agile Estimation Techniques](https://www.pmi.org/learning/library/agile-project-estimation-techniques-6110)
 - [Estimation Techniques - Overview](https://www.tutorialspoint.com/estimation_techniques/estimation_techniques_overview)
 - [5 Methods of Project Estimation](https://www.liquidplanner.com/blog/5-methods-of-project-estimation/)
 - [Project Estimation with Use Case Points](https://www.codeproject.com/Articles/9913/Project-Estimation-with-Use-Case-Points)
 - [How to Prepare Quotation Using Use Case Points](https://www.codeproject.com/Articles/9054/How-to-Prepare-Quotation-Using-Use-Case-Points)
-
 
 
 
@@ -152,7 +173,6 @@ monthly, Small (1 - 10 users)</b>
 - [The Art of Writing User Stories](https://medium.com/@jenndodd/the-art-of-writing-user-stories-b3b6154ea4cf)
 - [User Stories – The Art of Writing Agile Requirements](https://pmihouston.org/downloads/2014_Conference_Speaker_Presentations/lithespeed_user_stories_the_art_of_writing_agile_requirements_final.pdf)
 - [How to Write a Good Requirement](https://github.com/shahedbd/awesome-project-management/blob/master/Resource/How-to-Write-a-Good-Requirement.pdf)
-
 
 
 
@@ -184,57 +204,58 @@ the systems development life cycle (SDLC), also referred to as the application
 development life-cycle, is a process for planning, creating, testing, and deploying an information system. 
 - [What is, Phases, Model](https://www.guru99.com/software-development-life-cycle-tutorial.html)
 - [SDLC - Overview](https://www.tutorialspoint.com/sdlc/sdlc_overview)
+- [Software Development Lifecycle in 9 minutes!](https://www.youtube.com/watch?v=i-QyW8D3ei0&)
 
 
 
 
 ## Books
-- [Project Management Absolute Beginner's Guide](https://www.amazon.com/Project-Management-Absolute-Beginners-Guide/dp/0789756757)
-- [The Power of Scrum
+1. [Project Management Absolute Beginner's Guide](https://www.amazon.com/Project-Management-Absolute-Beginners-Guide/dp/0789756757)
+1. [The Power of Scrum
 ](https://docs.google.com/document/d/1nAJDzxqmVvUtZR0WV7UTO-7rAmFLGUbMDCWegFlHDl0/edit)
-- [Scrum: The Art of Doing Twice the Work in Half the Time](https://www.amazon.com/gp/product/038534645X
+1. [Scrum: The Art of Doing Twice the Work in Half the Time](https://www.amazon.com/gp/product/038534645X
 )
-- [Making Things Happen: Mastering Project Management](https://www.amazon.com/Making-Things-Happen-Mastering-Management/dp/0596517718
+1. [Making Things Happen: Mastering Project Management](https://www.amazon.com/Making-Things-Happen-Mastering-Management/dp/0596517718
 )
-- [The Lean Startup](https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898)
-- [Project Management For Dummies](https://www.amazon.com/Project-Management-Dummies-Stanley-Portny/dp/1118497236)
-- [Conflict 101: A Manager's Guide to Resolving Problems So Everyone Can Get Back to Work](https://www.amazon.com/Conflict-101-Managers-Resolving-Problems/dp/0814417116)
-- [Agile Project Management with Scrum](https://www.amazon.com/Agile-Project-Management-Developer-Practices/dp/073561993X/)
-- [101 Tips for the Enlightened Project Manager](https://www.amazon.com/101-Tips-Enlightened-Project-Manager-ebook/dp/B00FF0HDEG)
-- [One Hundred Rules for NASA Project Managers
+1. [The Lean Startup](https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898)
+1. [Project Management For Dummies](https://www.amazon.com/Project-Management-Dummies-Stanley-Portny/dp/1118497236)
+1. [Conflict 101: A Manager's Guide to Resolving Problems So Everyone Can Get Back to Work](https://www.amazon.com/Conflict-101-Managers-Resolving-Problems/dp/0814417116)
+1. [Agile Project Management with Scrum](https://www.amazon.com/Agile-Project-Management-Developer-Practices/dp/073561993X/)
+1. [101 Tips for the Enlightened Project Manager](https://www.amazon.com/101-Tips-Enlightened-Project-Manager-ebook/dp/B00FF0HDEG)
+1. [One Hundred Rules for NASA Project Managers
 ](https://www.eecs.yorku.ca/course_archive/2002-03/W/ENG2000/Nasa's_100_PM_Rules.html)
-- [PMBOK®](https://www.pmi.org/pmbok-guide-standards)
-- [SBOK®](https://www.scrumstudy.com/sbokguide/download-free-buy-sbok)
-- [The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change](https://www.amazon.com/Habits-Highly-Effective-People-Powerful-ebook/dp/B00GOZV3TM/)
-- [Talking to 'Crazy': How to Deal with the Irrational and Impossible People in Your Life ](https://www.amazon.com/gp/product/B0789W6FYX/ref=dbs_a_def_rwt_hsch_vapi_taft_p1_i2)
-- [Project Management For Dummies](https://www.amazon.com/Project-Management-Dummies-Stanley-Portny/dp/1118497236)
-- [Project Management: A Systems Approach to Planning, Scheduling, and Controlling](https://www.amazon.com/Project-Management-Approach-Scheduling-Controlling/dp/1118022270/)
-- [Peopleware: Productive Projects and Teams](https://www.amazon.com/Peopleware-Productive-Projects-Teams-3rd/dp/0321934113/)
-- [Good to Great: Why Some Companies Make the Leap and Others Don't](https://www.amazon.com/Good-Great-Some-Companies-Others/dp/0066620996/)
-- [Risk Up Front: Managing Projects in a Complex World](https://www.amazon.com/gp/product/B07DR11KRF/ref=dbs_a_def_rwt_hsch_vapi_taft_p1_i0)
-- [Principles: Life and Work](https://www.amazon.com/gp/product/B071CTK28D/ref=dbs_a_def_rwt_hsch_vapi_taft_p1_i0)
-- [PMP: Project Management Professional Exam Study Guide](https://www.amazon.com/gp/product/B079MNT9QJ/ref=dbs_a_def_rwt_hsch_vapi_taft_p1_i1)
-- [The Velocity Advantage: Make cross-functional alignment your invisible edge!](https://www.amazon.com/gp/product/B01MQOCCQC/ref=dbs_a_def_rwt_bibl_vppi_i0)
-- [INSPIRED: How to Create Tech Products Customers Love](https://www.amazon.com/gp/product/B077NRB36N/ref=dbs_a_def_rwt_hsch_vapi_taft_p1_i0)
-- [Master Your Time, Master Your Life: The Breakthrough System to Get More Results, Faster, in Every Area of Your Life](https://www.amazon.com/gp/product/0399183825/ref=dbs_a_def_rwt_bibl_vppi_i9)
-- [Leadership Step by Step: Become the Person Others Follow](https://www.amazon.com/gp/product/0814437931/ref=dbs_a_def_rwt_bibl_vppi_i0)
-- [The 50 Golden Rules of Project Management: How the Best Project Managers Do It](https://www.amazon.com/gp/product/B00C7Q26Y8/ref=dbs_a_def_rwt_hsch_vapi_taft_p1_i0)
-- [Brilliant Checklists for Project Managers: Your Shortcut to Success](https://www.amazon.com/gp/product/B00SFSTKOQ/ref=dbs_a_def_rwt_hsch_vapi_taft_p1_i2)
-- [Scrappy Project Management: The 12 Predictable and Avoidable Pitfalls Every Project Faces ](https://www.amazon.com/Scrappy-Project-Management-Predictable-Avoidable/dp/1600050514)
-- [SCRUM: The Ultimate Beginner’s Guide To Learn And Master Scrum Agile Framework](https://www.amazon.com/gp/product/1721770178/ref=dbs_a_def_rwt_bibl_vppi_i2)
-- [HBR Guide to Project Management](https://hbr.org/product/hbr-guide-to-project-management/11184-PBK-ENG)
-- [The Mythical Man-Month](https://www.amazon.com/Mythical-Man-Month-Software-Engineering-Anniversary-ebook/dp/B000OZ0N6M)
-- [The Harvard Business Review Manager's Handbook: The 17 Skills Leaders Need to Stand Out (HBR Handbooks)](https://www.amazon.com/Harvard-Business-Review-Managers-Handbook-ebook/dp/B01I8S26W0)
-- [97 Things Every Project Manager Should Know](https://www.amazon.com/Things-Every-Project-Manager-Should/dp/0596804164)
-- [Agile Retrospectives: Making Good Teams Great](https://www.amazon.com/Agile-Retrospectives-Making-Teams-Great/dp/0977616649)
-- [Essential Scrum](https://www.amazon.com/Essential-Scrum-Practical-Addison-Wesley-Signature/dp/0137043295)
-- [Scrum Shortcuts Without Cutting Corners: Agile Tactics, Tools & Tips](https://www.amazon.com/Scrum-Shortcuts-Without-Cutting-Corners/dp/0321822366)
-- [Mastering Software Project Requirements](https://www.amazon.com/Mastering-Software-Project-Requirements-Development/dp/1604270918)
-- [SafeScrum® – Agile Development of Safety-Critical Software](https://www.google.com/search?kgmid=/g/11f7787mkb&hl=en-US&q=SafeScrum%C2%AE+%E2%80%93+Agile+Development+of+Safety-Critical+Software&kgs=6c7fe84fa9a417ca&shndl=0&source=sh/x/kp/osrp&entrypoint=sh/x/kp/osrp)
+1. [PMBOK®](https://www.pmi.org/pmbok-guide-standards)
+1. [SBOK®](https://www.scrumstudy.com/sbokguide/download-free-buy-sbok)
+1. [The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change](https://www.amazon.com/Habits-Highly-Effective-People-Powerful-ebook/dp/B00GOZV3TM/)
+1. [Talking to 'Crazy': How to Deal with the Irrational and Impossible People in Your Life ](https://www.amazon.com/gp/product/B0789W6FYX/ref=dbs_a_def_rwt_hsch_vapi_taft_p1_i2)
+1. [Project Management For Dummies](https://www.amazon.com/Project-Management-Dummies-Stanley-Portny/dp/1118497236)
+1. [Project Management: A Systems Approach to Planning, Scheduling, and Controlling](https://www.amazon.com/Project-Management-Approach-Scheduling-Controlling/dp/1118022270/)
+1. [Peopleware: Productive Projects and Teams](https://www.amazon.com/Peopleware-Productive-Projects-Teams-3rd/dp/0321934113/)
+1. [Good to Great: Why Some Companies Make the Leap and Others Don't](https://www.amazon.com/Good-Great-Some-Companies-Others/dp/0066620996/)
+1. [Risk Up Front: Managing Projects in a Complex World](https://www.amazon.com/gp/product/B07DR11KRF/ref=dbs_a_def_rwt_hsch_vapi_taft_p1_i0)
+1. [Principles: Life and Work](https://www.amazon.com/gp/product/B071CTK28D/ref=dbs_a_def_rwt_hsch_vapi_taft_p1_i0)
+1. [PMP: Project Management Professional Exam Study Guide](https://www.amazon.com/gp/product/B079MNT9QJ/ref=dbs_a_def_rwt_hsch_vapi_taft_p1_i1)
+1. [The Velocity Advantage: Make cross-functional alignment your invisible edge!](https://www.amazon.com/gp/product/B01MQOCCQC/ref=dbs_a_def_rwt_bibl_vppi_i0)
+1. [INSPIRED: How to Create Tech Products Customers Love](https://www.amazon.com/gp/product/B077NRB36N/ref=dbs_a_def_rwt_hsch_vapi_taft_p1_i0)
+1. [Master Your Time, Master Your Life: The Breakthrough System to Get More Results, Faster, in Every Area of Your Life](https://www.amazon.com/gp/product/0399183825/ref=dbs_a_def_rwt_bibl_vppi_i9)
+1. [Leadership Step by Step: Become the Person Others Follow](https://www.amazon.com/gp/product/0814437931/ref=dbs_a_def_rwt_bibl_vppi_i0)
+1. [The 50 Golden Rules of Project Management: How the Best Project Managers Do It](https://www.amazon.com/gp/product/B00C7Q26Y8/ref=dbs_a_def_rwt_hsch_vapi_taft_p1_i0)
+1. [Brilliant Checklists for Project Managers: Your Shortcut to Success](https://www.amazon.com/gp/product/B00SFSTKOQ/ref=dbs_a_def_rwt_hsch_vapi_taft_p1_i2)
+1. [Scrappy Project Management: The 12 Predictable and Avoidable Pitfalls Every Project Faces ](https://www.amazon.com/Scrappy-Project-Management-Predictable-Avoidable/dp/1600050514)
+1. [SCRUM: The Ultimate Beginner’s Guide To Learn And Master Scrum Agile Framework](https://www.amazon.com/gp/product/1721770178/ref=dbs_a_def_rwt_bibl_vppi_i2)
+1. [HBR Guide to Project Management](https://hbr.org/product/hbr-guide-to-project-management/11184-PBK-ENG)
+1. [The Mythical Man-Month](https://www.amazon.com/Mythical-Man-Month-Software-Engineering-Anniversary-ebook/dp/B000OZ0N6M)
+1. [The Harvard Business Review Manager's Handbook: The 17 Skills Leaders Need to Stand Out (HBR Handbooks)](https://www.amazon.com/Harvard-Business-Review-Managers-Handbook-ebook/dp/B01I8S26W0)
+1. [97 Things Every Project Manager Should Know](https://www.amazon.com/Things-Every-Project-Manager-Should/dp/0596804164)
+1. [Agile Retrospectives: Making Good Teams Great](https://www.amazon.com/Agile-Retrospectives-Making-Teams-Great/dp/0977616649)
+1. [Essential Scrum](https://www.amazon.com/Essential-Scrum-Practical-Addison-Wesley-Signature/dp/0137043295)
+1. [Scrum Shortcuts Without Cutting Corners: Agile Tactics, Tools & Tips](https://www.amazon.com/Scrum-Shortcuts-Without-Cutting-Corners/dp/0321822366)
+1. [Mastering Software Project Requirements](https://www.amazon.com/Mastering-Software-Project-Requirements-Development/dp/1604270918)
+1. [SafeScrum® – Agile Development of Safety-Critical Software](https://www.amazon.com/SafeScrum%C2%AE-Agile-Development-Safety-Critical-Software/dp/331999333X)
 
 
 
-## Download Book
+# Download Book
 - [Free Book Download](https://b-ok.org/)
 
 
@@ -273,7 +294,7 @@ development life-cycle, is a process for planning, creating, testing, and deploy
 
 
 
-## Articles and Posts
+## Articles and Post
 1. [The Beginner’s Guide to Using Project Planning Softwar](https://medium.com/paymo/the-beginners-guide-to-using-project-planning-software-a11f4a904d73)
 1. [Becoming a Project Manager – A Complete Guide for 2019](https://www.paymoapp.com/blog/the-complete-project-manager-guide/)
 1. [10 Essential Project Management Skills](https://www.projectmanager.com/blog/project-management-skills)
