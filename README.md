@@ -47,6 +47,8 @@ track, and release great software.
   1. [TeamGantt](https://www.teamgantt.com/) - Meet deadlines, streamline team communication, and keep everyone updated and happy. <b>It's Free for limited usages</b>
 
   1. [Airtable](https://airtable.com/) - Part spreadsheet, part database, and entirely flexible, teams use Airtable to organize their work, their way. <b>It's Free for limited usages</b>
+  
+  1. [zipBoard](https://zipboard.co) - Bug tracking and website annotation tool, free for 1 project, pricing starts at $39/month</b>
 
 
   1. [Microsoft Project](https://products.office.com/en/project/project-and-portfolio-management-software) - Streamline project, resource, and portfolio management with Microsoft Project to help you keep track of projects successfully. <b>Starting from $7.00 (user/month), Project Online Essentials</b>
@@ -99,6 +101,7 @@ monthly, Small (1 - 10 users)</b>
 - [XD](https://www.adobe.com/products/xd.html)
 - [Smartsheet](https://www.smartsheet.com/)
 - [Invisionapp](https://www.invisionapp.com/)
+- [Slite](https://slite.com/)
 
 
 
@@ -281,6 +284,7 @@ development life-cycle, is a process for planning, creating, testing, and deploy
 1. [The Art of Writing User Stories](https://medium.com/@jenndodd/the-art-of-writing-user-stories-b3b6154ea4cf)
 1. [The Top 9 Reasons for IT Project Failure: Is Your Project at Risk?](https://www.askspoke.com/blog/it/reasons-for-it-project-failure/)
 1. [10 reasons why software development projects fail](https://medium.com/specstimate/10-reasons-why-software-development-projects-fail-7200e7c9ae2e)
+1. [Tools for remote teams to stay connected](https://blog.zipboard.co/tools-for-remote-teams-to-stay-connected-2a6de4c783d1)
 
 
 
