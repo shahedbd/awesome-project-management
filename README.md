@@ -158,6 +158,7 @@ monthly, Small (1 - 10 users)</b>
 
 ## Estimation
 - [Agile Estimation Techniques](https://www.pmi.org/learning/library/agile-project-estimation-techniques-6110)
+- [Estimake.it - Project Estimation Tool](https://estimake.it)
 - [Estimation Techniques - Overview](https://www.tutorialspoint.com/estimation_techniques/estimation_techniques_overview)
 - [5 Methods of Project Estimation](https://www.liquidplanner.com/blog/5-methods-of-project-estimation/)
 - [Project Estimation with Use Case Points](https://www.codeproject.com/Articles/9913/Project-Estimation-with-Use-Case-Points)
