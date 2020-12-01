@@ -128,6 +128,7 @@ monthly, Small (1 - 10 users)</b>
 - [Evernote](https://evernote.com/)
 - [Azendoo](https://www.azendoo.com/)
 - [Google Keep](https://keep.google.com/)
+- [Joplin](https://joplinapp.org/)
 
 
 ## Password Management Tool
