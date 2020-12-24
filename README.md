@@ -83,6 +83,7 @@ monthly, Small (1 - 10 users)</b>
 - [High Level Project Estimation](https://docs.google.com/spreadsheets/d/1rZuor1LssjoSD-C3_Ah8sgHovGvuJb9kiTidIFzAZw4/edit#gid=0)
 - [Project Start to End Generic Checklist](https://docs.google.com/document/d/1G2myzHQ4xDbeJPscMXN-PRNZq93zpjh9hie3UzRYojw/edit?usp=sharing)
 - [Project Charter Template](https://docs.google.com/document/d/1SwQ8DwDkRfsvG3YmLF7ewjG2AyNdJZoqJU7QlT04GpI/edit?usp=sharing)
+- [Minutes of Meeting (MoM)](https://docs.google.com/document/d/18t3xy7ERSFYSjryqCADhJCvi8WJOdyqoNJ0Yl5VkXZ8/edit?usp=sharing)
 
 
 
