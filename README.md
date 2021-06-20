@@ -4,7 +4,7 @@ This Awesome list about [Project Management](https://en.wikipedia.org/wiki/Proje
 ![PM Banner](https://github.com/shahedbd/awesome-project-management/blob/master/Resource/pmbanner.png)
 
 ## Table of Contents
-1. [Top Project Management Tool](#Top-Management-Tool)
+1. [Top Project Management Tool](#Top-Project-Management-Tool)
 1. [Free Template](#Free-Template)
 1. [Design and Documentation Tool](#Design-and-Documentation-Tool)
 1. [Communication Tool](#Communication-Tool)
