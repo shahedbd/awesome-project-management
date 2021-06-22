@@ -34,12 +34,12 @@ This Awesome list about [Project Management](https://en.wikipedia.org/wiki/Proje
 
 ## Top Project Management Tool
   1. [Trello](https://clickup.com/?fp_ref=bp09x) - Trello’s boards, lists, and cards enable you to organize and prioritize your projects in a fun, flexible, and rewarding way. <b>It's Free</b>
+  1. [ClickUp](https://clickup.com/?fp_ref=bp09x) - The productivity platform. Create. Plan. Organize. Everything. <b>It's Free for limited usages</b>
   1. [Jira](https://jira.com) - Jira Software is built for every member of your software team to plan,
 track, and release great software.
 <b>Starting from $10 / month. Flat rate For 1 - 10 users</b>
   1. [Redmine](http://www.redmine.org/) - Redmine is a flexible project management web application. Written using the Ruby on Rails framework, it is cross-platform and cross-database. <b>Free. Open Source. Simple to use.</b>
   1. [Wrike](https://www.wrike.com) - Leading Work Management Solution to Streamline Workflow to Gain Visibility to Simplify Planningy. <b>It's Free for limited usages</b>
-  1. [ClickUp](https://clickup.com/) - The productivity platform. Create. Plan. Organize. Everything. <b>It's Free for limited usages</b>
   1. [Monday](https://monday.com/) - A new way to manage your work. <b>It's Free for limited usages</b>
   1. [Hive](https://hive.com) - The productivity platform. <b>It's Free for limited usages</b>
   1. [TeamGantt](https://www.teamgantt.com/) - Meet deadlines, streamline team communication, and keep everyone updated and happy. <b>It's Free for limited usages</b>
