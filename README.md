@@ -34,14 +34,17 @@ This Awesome list about [Project Management](https://en.wikipedia.org/wiki/Proje
 
 ## Top Project Management Tool
   
-  1. [ClickUp](https://clickup.com/?fp_ref=bp09x) - The productivity platform. Create. Plan. Organize. Everything. <b>It's Free for limited usages</b>
+  1. [ClickUp](https://clickup.com/?fp_ref=bp09x) - The productivity platform. Create. Plan. Organize. Everything. <b>It's Free for limited usages</b> <br/>
+  Get dedicated help for your entire implementation; requirements definition, solutions tailored to your business processes, data migration, and more. You'll also have a Success Manager dedicated to your account to ensure your teams get the most out of [ClickUp.](https://clickup.com/?fp_ref=bp09x) 
+  1. [Monday](https://mondaycom.grsm.io/rmshahidulislamshahed9288) - A new way to manage your work. <b>It's Free for limited usages</b> 
+  <br />Bring teams together over one shared platform to break communication barriers, move projects forward, and align everyone involved. 
+  [Monday.com](https://mondaycom.grsm.io/rmshahidulislamshahed9288)
   1. [Jira](https://jira.com) - Jira Software is built for every member of your software team to plan,
 track, and release great software.
 <b>Starting from $10 / month. Flat rate For 1 - 10 users</b>
   1. [Redmine](http://www.redmine.org/) - Redmine is a flexible project management web application. Written using the Ruby on Rails framework, it is cross-platform and cross-database. <b>Free. Open Source. Simple to use.</b>
   1. [Trello](https://trello.com/) - Trello’s boards, lists, and cards enable you to organize and prioritize your projects in a fun, flexible, and rewarding way. <b>It's Free</b>
   1. [Wrike](https://www.wrike.com) - Leading Work Management Solution to Streamline Workflow to Gain Visibility to Simplify Planningy. <b>It's Free for limited usages</b>
-  1. [Monday](https://monday.com/) - A new way to manage your work. <b>It's Free for limited usages</b>
   1. [Hive](https://hive.com) - The productivity platform. <b>It's Free for limited usages</b>
   1. [TeamGantt](https://www.teamgantt.com/) - Meet deadlines, streamline team communication, and keep everyone updated and happy. <b>It's Free for limited usages</b>
   1. [Airtable](https://airtable.com/) - Part spreadsheet, part database, and entirely flexible, teams use Airtable to organize their work, their way. <b>It's Free for limited usages</b>
