@@ -26,7 +26,7 @@ This Awesome list about [Project Management](https://en.wikipedia.org/wiki/Proje
 1. [Community](#Community)
 1. [Conference and Seminar](#Conference-and-Seminar)
 1. [People](#People)
-1. [Certification](#)
+1. [Certification](#Certification)
 1. [Essential Website](#Essential-Website)
 1. [Cheat Sheets](#cheat-sheets)
 1. [Interview](#Interview)
@@ -39,9 +39,8 @@ This Awesome list about [Project Management](https://en.wikipedia.org/wiki/Proje
   1. [Monday](https://mondaycom.grsm.io/rmshahidulislamshahed9288) - A new way to manage your work. <b>It's Free for limited usages</b> 
   <br />Bring teams together over one shared platform to break communication barriers, move projects forward, and align everyone involved. 
   [Monday.com](https://mondaycom.grsm.io/rmshahidulislamshahed9288)
-  1. [Jira](https://jira.com) - Jira Software is built for every member of your software team to plan,
-track, and release great software.
-<b>Starting from $10 / month. Flat rate For 1 - 10 users</b>
+  1. [Backlog](https://backlog.com/?ref=rmshahidulislamshahed) - Online project management tool for developers. <b>Free and starting from $35 for 30 users per / month</b>
+  1. [Jira](https://jira.com) - Jira Software is built for every member of your software team to plan, track, and release great software. <b>Starting from $10 / month. Flat rate For 1 - 10 users</b>
   1. [Redmine](http://www.redmine.org/) - Redmine is a flexible project management web application. Written using the Ruby on Rails framework, it is cross-platform and cross-database. <b>Free. Open Source. Simple to use.</b>
   1. [Trello](https://trello.com/) - Trello’s boards, lists, and cards enable you to organize and prioritize your projects in a fun, flexible, and rewarding way. <b>It's Free</b>
   1. [Wrike](https://www.wrike.com) - Leading Work Management Solution to Streamline Workflow to Gain Visibility to Simplify Planningy. <b>It's Free for limited usages</b>
@@ -51,7 +50,6 @@ track, and release great software.
   1. [zipBoard](https://zipboard.co) - Bug tracking and website annotation tool, free for 1 project, pricing starts at $39/month</b>
   1. [Microsoft Project](https://products.office.com/en/project/project-and-portfolio-management-software) - Streamline project, resource, and portfolio management with Microsoft Project to help you keep track of projects successfully. <b>Starting from $7.00 (user/month), Project Online Essentials</b>
   1. [Freedcamp](https://freedcamp.com/) - Whether you have wedding plans, organizing a camping trip or leading a work project. Working from home or at the office. Freedcamp is in the center of it all. <b>Free and starting from $1.49 per user / month</b>
-  1. [Backlog](https://backlog.com/) - Online project management tool for developers. <b>Free and starting from $35 for 30 users per / month</b>
   1. [Taiga](https://taiga.io/) - Taiga is a project management platform for agile developers & designers and project managers who want a beautiful tool that makes work truly enjoyable. <b>Free. Open Source. Simple to use.</b>
   1. [Asana](https://asana.com/) - Asana is the work management platform teams use to stay focused on the goals, projects, and daily tasks that grow business. <b>Starting from $9.9 (user/month), Premium</b> 
   1. [Clubhouse](https://clubhouse.io/) - Clubhouse is the first project management platform for software development that brings everyone on every team together to build better products. <b>Starting from $8.33
@@ -383,7 +381,12 @@ development life-cycle, is a process for planning, creating, testing, and deploy
 - [Management 3.0](https://management30.com/)
 - [Certified Associate in Project Management (CAPM)®](https://www.pmi.org/certifications/types/certified-associate-capm)
 - [PMI Risk Management Professional (PMI-RMP)®](https://www.pmi.org/certifications/types/risk-management-rmp)
-
+- [Scrum@Scale™](https://www.scrumatscale.com/)
+- [LeSS Framework - Large Scale Scrum (LeSS)™](https://less.works/)
+- [APMG International Agile Project Management (AgilePM)](https://apmg-international.com/)
+- [Scrum@Scale™](https://www.scrumatscale.com/)
+- [Certified Scrum Product Owner®](https://www.scrumalliance.org/get-certified/product-owner-track/certified-scrum-product-owner)
+- [Scrum@Scale™](https://www.scrumatscale.com/)
 
 
 ## Essential Website
