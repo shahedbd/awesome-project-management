@@ -217,15 +217,12 @@ development life-cycle, is a process for planning, creating, testing, and deploy
 
 
 ## Books
-1. [Project Management Absolute Beginner's Guide](https://www.amazon.com/Project-Management-Absolute-Beginners-Guide/dp/0789756757)
-1. [The Power of Scrum
-](https://docs.google.com/document/d/1nAJDzxqmVvUtZR0WV7UTO-7rAmFLGUbMDCWegFlHDl0/edit)
-1. [Scrum: The Art of Doing Twice the Work in Half the Time](https://www.amazon.com/gp/product/038534645X
-)
-1. [Making Things Happen: Mastering Project Management](https://www.amazon.com/Making-Things-Happen-Mastering-Management/dp/0596517718
-)
-1. [The Lean Startup](https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898)
-1. [Project Management For Dummies](https://www.amazon.com/Project-Management-Dummies-Stanley-Portny/dp/1118497236)
+1. [Project Management Absolute Beginner's Guide](https://amzn.to/3yzH53f)
+1. [The Power of Scrum](https://amzn.to/3DDw6ts)
+1. [Scrum: The Art of Doing Twice the Work in Half the Time](https://amzn.to/3BylmuA)
+1. [Making Things Happen: Mastering Project Management](https://amzn.to/38xWCX1)
+1. [The Lean Startup](https://amzn.to/3kGIa4k)
+1. [Project Management For Dummies](https://amzn.to/3tgVvEv)
 1. [Conflict 101: A Manager's Guide to Resolving Problems So Everyone Can Get Back to Work](https://www.amazon.com/Conflict-101-Managers-Resolving-Problems/dp/0814417116)
 1. [Agile Project Management with Scrum](https://www.amazon.com/Agile-Project-Management-Developer-Practices/dp/073561993X/)
 1. [101 Tips for the Enlightened Project Manager](https://www.amazon.com/101-Tips-Enlightened-Project-Manager-ebook/dp/B00FF0HDEG)
