@@ -217,11 +217,12 @@ development life-cycle, is a process for planning, creating, testing, and deploy
 
 
 ## Books
-1. [Project Management Absolute Beginner's Guide](https://amzn.to/3yzH53f)
-1. [The Power of Scrum](https://amzn.to/3DDw6ts)
-1. [Scrum: The Art of Doing Twice the Work in Half the Time](https://amzn.to/3BylmuA)
-1. [Making Things Happen: Mastering Project Management](https://amzn.to/38xWCX1)
-1. [The Lean Startup](https://amzn.to/3kGIa4k)
+1. [Project Management Absolute Beginner's Guide](https://amzn.to/3nxnIFf)
+1. [The Power of Scrum](https://amzn.to/3A2e1pv)
+1. [Scrum: The Art of Doing Twice the Work in Half the Time](https://amzn.to/3xTXpgW)
+1. [Making Things Happen: Mastering Project Management](https://amzn.to/3nggo0w)
+1. [The Lean Startup](https://amzn.to/39OuoLR)
+
 1. [Project Management For Dummies](https://amzn.to/3tgVvEv)
 1. [Conflict 101: A Manager's Guide to Resolving Problems So Everyone Can Get Back to Work](https://www.amazon.com/Conflict-101-Managers-Resolving-Problems/dp/0814417116)
 1. [Agile Project Management with Scrum](https://www.amazon.com/Agile-Project-Management-Developer-Practices/dp/073561993X/)
