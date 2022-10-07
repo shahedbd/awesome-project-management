@@ -169,7 +169,7 @@ monthly, Small (1 - 10 users)</b>
 - [5 Methods of Project Estimation](https://www.liquidplanner.com/blog/5-methods-of-project-estimation/)
 - [Project Estimation with Use Case Points](https://www.codeproject.com/Articles/9913/Project-Estimation-with-Use-Case-Points)
 - [How to Prepare Quotation Using Use Case Points](https://www.codeproject.com/Articles/9054/How-to-Prepare-Quotation-Using-Use-Case-Points)
-- [Simplestimate - Project Estimation Tool](https://simplestimate.com)
+- [Simple Estimate - Project Estimation Tool](https://simplestimate.com)
 
 
 
