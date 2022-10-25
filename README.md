@@ -311,6 +311,7 @@ development life-cycle, is a process for planning, creating, testing, and deploy
 1. [The Top 9 Reasons for IT Project Failure: Is Your Project at Risk?](https://www.askspoke.com/blog/it/reasons-for-it-project-failure/)
 1. [10 reasons why software development projects fail](https://medium.com/specstimate/10-reasons-why-software-development-projects-fail-7200e7c9ae2e)
 1. [Tools for remote teams to stay connected](https://blog.zipboard.co/tools-for-remote-teams-to-stay-connected-2a6de4c783d1)
+1. [Web Development Roadmap](https://www.scaler.com/topics/software-engineering/web-development-roadmap/)
 
 
 
