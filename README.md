@@ -288,7 +288,9 @@ development life-cycle, is a process for planning, creating, testing, and deploy
 - [Communication Skills - How To Improve Communication Skills - 7 Unique Tips!
 ](https://www.youtube.com/watch?v=mPRUNGGORDo)
 - [Initiating and Planning Projects](https://www.coursera.org/learn/project-planning) - This course is part of the Introduction to Project Management Principles and Practices Specialization. 
-- [Project Planning & Management For Software & IT Engineers](https://www.udemy.com/course/the-art-of-project-management-for-software-it-engineers/) 
+- [Project Planning & Management For Software & IT Engineers](https://www.udemy.com/course/the-art-of-project-management-for-software-it-engineers/)
+- [Agile Methodology](https://www.youtube.com/watch?v=cWQrJ7DGgXA)
+
 
 
 ## Tutorial
