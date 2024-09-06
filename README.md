@@ -348,6 +348,8 @@ development life-cycle, is a process for planning, creating, testing, and deploy
 * [Slack Group-Coachingagile](https://launchpass.com/coachingagile)
 * [Slack Group-Agilepeople](https://launchpass.com/agilepeople)
 * [Slack Group-Product Manager HQ](https://www.productmanagerhq.com/join-the-community/)
+* [Reddit - r/ProjectManagement](https://www.reddit.com/r/projectmanagement/)
+* [Reddit - r/PMP](https://www.reddit.com/r/pmp/)
 
 
 ## Conference and Seminar
@@ -391,6 +393,8 @@ development life-cycle, is a process for planning, creating, testing, and deploy
 - [Scrum@Scale™](https://www.scrumatscale.com/)
 - [Certified Scrum Product Owner®](https://www.scrumalliance.org/get-certified/product-owner-track/certified-scrum-product-owner)
 - [Scrum@Scale™](https://www.scrumatscale.com/)
+- [PDU60 - Earn PDUs and renew your PMP certification the easy way](https://pdu60.com)
+- [pdunow - PDUs to Renew Your PMI Credential](https://pdunow.com/)
 
 
 ## Essential Website
