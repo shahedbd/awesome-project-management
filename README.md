@@ -102,6 +102,7 @@ monthly, Small (1 - 10 users)</b>
 - [Slite](https://slite.com/)
 - [Codepen](https://codepen.io/)
 - [Figma](https://www.figma.com/)
+- [Icons8](https://icons8.com/)
 
 
 
