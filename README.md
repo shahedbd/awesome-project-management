@@ -36,7 +36,8 @@ This Awesome list about [Project Management](https://en.wikipedia.org/wiki/Proje
   
   1. [ClickUp](https://clickup.com/?fp_ref=bp09x) - The productivity platform. Create. Plan. Organize. Everything. <b>It's Free for limited usages</b> <br/>
   Get dedicated help for your entire implementation; requirements definition, solutions tailored to your business processes, data migration, and more. You'll also have a Success Manager dedicated to your account to ensure your teams get the most out of [ClickUp.](https://clickup.com/?fp_ref=bp09x) 
-  1. [Monday](https://mondaycom.grsm.io/rmshahidulislamshahed9288) - A new way to manage your work. <b>It's Free for limited usages</b> 
+  1. [Monday](https://mondaycom.grsm.io/rmshahidulislamshahed9288) - A new way to manage your work. <b>It's Free for limited usages</b>
+  1. [Freedcamp](https://freedcamp.com) The first and only free project management system, offering simplicity and advanced features.
   <br />Bring teams together over one shared platform to break communication barriers, move projects forward, and align everyone involved. 
   [Monday.com](https://mondaycom.grsm.io/rmshahidulislamshahed9288)
   1. [Backlog](https://backlog.com/?ref=rmshahidulislamshahed) - Online project management tool for developers. <b>Free and starting from $35 for 30 users per / month</b>
