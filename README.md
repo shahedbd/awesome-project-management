@@ -41,6 +41,7 @@ This Awesome list about [Project Management](https://en.wikipedia.org/wiki/Proje
   [Monday.com](https://mondaycom.grsm.io/rmshahidulislamshahed9288)
   1. [Backlog](https://backlog.com/?ref=rmshahidulislamshahed) - Online project management tool for developers. <b>Free and starting from $35 for 30 users per / month</b>
   1. [Jira](https://jira.com) - Jira Software is built for every member of your software team to plan, track, and release great software. <b>Starting from $10 / month. Flat rate For 1 - 10 users</b>
+  1. [Plane.so](https://plane.so/) is an open-source project management tool built specifically for software teams. It's like Jira but modern, beautiful, and self-hostable.
   1. [Redmine](http://www.redmine.org/) - Redmine is a flexible project management web application. Written using the Ruby on Rails framework, it is cross-platform and cross-database. <b>Free. Open Source. Simple to use.</b>
   1. [Trello](https://trello.com/) - Trello’s boards, lists, and cards enable you to organize and prioritize your projects in a fun, flexible, and rewarding way. <b>It's Free</b>
   1. [Wrike](https://www.wrike.com) - Leading Work Management Solution to Streamline Workflow to Gain Visibility to Simplify Planningy. <b>It's Free for limited usages</b>
