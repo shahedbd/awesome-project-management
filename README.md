@@ -160,6 +160,7 @@ monthly, Small (1 - 10 users)</b>
 - [Launchpad](https://launchpad.net/)
 - [Sourceforge](https://sourceforge.net/)
 - [Gitea](https://gitea.io/en-us/)
+- [git-native-issue](https://github.com/remenoscodes/git-native-issue) - Distributed issue tracking embedded in Git. Track bugs and tasks as native Git objects, sync via push/pull, no server required. Free. Open Source.
 
 
 
