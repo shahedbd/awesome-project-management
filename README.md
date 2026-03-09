@@ -68,7 +68,8 @@ monthly, Small (1 - 10 users)</b>
   1. [Redbooth](https://redbooth.com/pricing) - Flexible Project Management software that scales with your team. <b>Starting from $9 /user/month</b>
   1. [Bitrix24](https://www.bitrix24.com) - Stunningly beautiful websites and landing pages, ready to help you sell your products and services in minutes. <b>Free for 12 users</b>
   1. [Lavagna.io](https://lavagna.io/) - Lavagna is an open-source issue/project management tool designed for small teams. <b>Open source, Self install</b>
-    
+  1. [Dorothy](https://github.com/Charlie85270/Dorothy) - Open-source desktop app with Kanban board to orchestrate and manage multiple AI CLI agents (Claude Code, Codex, Gemini) with task management, automations, and remote control. <b>Free. Open Source.</b>
+
 
 
 ## Free Template
