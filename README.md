@@ -404,6 +404,7 @@ development life-cycle, is a process for planning, creating, testing, and deploy
 - [Project Management Blog](https://www.knowledgehut.com/blog/category/project-management)
 - [CMMI Institute](https://cmmiinstitute.com/)
 - [Projectsmart](https://www.projectsmart.co.uk/)
+- [RemoteOpenClaw](https://remoteopenclaw.com) - Open marketplace for AI skills and personas built on OpenClaw
 
 
 ## Cheat Sheets
