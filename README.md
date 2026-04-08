@@ -135,6 +135,7 @@ monthly, Small (1 - 10 users)</b>
 - [Azendoo](https://www.azendoo.com/)
 - [Google Keep](https://keep.google.com/)
 - [Joplin](https://joplinapp.org/)
+- [TAMSIV](https://www.tamsiv.com) - Voice-powered AI task manager with gamification, real-time collaboration, and 6 languages. Free on Android.
 
 
 ## Password Management Tool
