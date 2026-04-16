@@ -68,8 +68,8 @@ monthly, Small (1 - 10 users)</b>
   1. [Redbooth](https://redbooth.com/pricing) - Flexible Project Management software that scales with your team. <b>Starting from $9 /user/month</b>
   1. [Bitrix24](https://www.bitrix24.com) - Stunningly beautiful websites and landing pages, ready to help you sell your products and services in minutes. <b>Free for 12 users</b>
   1. [Lavagna.io](https://lavagna.io/) - Lavagna is an open-source issue/project management tool designed for small teams. <b>Open source, Self install</b>
+  1. [RoadmapSnap](https://roadmapsnapweb.moisesprat.dev) - AI-powered PMO governance platform for enterprise program visibility. Free Lite tier. Open source.
     
-
 
 ## Free Template
 - [Top Project Management Excel Templates](https://www.smartsheet.com/top-project-management-excel-templates)
