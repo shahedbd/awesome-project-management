@@ -68,6 +68,7 @@ monthly, Small (1 - 10 users)</b>
   1. [Redbooth](https://redbooth.com/pricing) - Flexible Project Management software that scales with your team. <b>Starting from $9 /user/month</b>
   1. [Bitrix24](https://www.bitrix24.com) - Stunningly beautiful websites and landing pages, ready to help you sell your products and services in minutes. <b>Free for 12 users</b>
   1. [Lavagna.io](https://lavagna.io/) - Lavagna is an open-source issue/project management tool designed for small teams. <b>Open source, Self install</b>
+  1. [SprintFlint](https://sprintflint.com) - Sprint-native Jira alternative for small engineering teams (5–30 devs). AI story import, GitHub PR ↔ ticket sync, sprint forecasting, retros, and a native MCP server for Claude / Cursor / Zed. <b>Free up to 300 tickets, then £5/user/month.</b>
     
 
 
