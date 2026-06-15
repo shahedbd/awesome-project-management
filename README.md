@@ -67,6 +67,7 @@
 | [Freedcamp](https://freedcamp.com) | Project management for personal and professional use | `Free` / From `$1.49/user` |
 | [Teamwork.com](https://www.teamwork.com) | Client-focused project management with billing features | `Free` (up to 5 users) |
 | [Microsoft Project](https://www.microsoft.com/en-us/microsoft-365/project/project-management-software) | Enterprise project, resource, and portfolio management | From `$10/user` |
+| [Plan4Projects](https://plan4projects.com) | Free native macOS Gantt chart & planner; a Microsoft Project alternative that opens `.mpp` files | `Free` |
 | [Clubhouse (Shortcut)](https://shortcut.com) | Project management built specifically for software teams | From `$8.50/user` |
 | [Redbooth](https://redbooth.com) | Flexible PM software with HD video meetings | From `$9/user` |
 | [Bitrix24](https://www.bitrix24.com) | CRM + project management + website builder suite | `Free` (up to 12 users) |
