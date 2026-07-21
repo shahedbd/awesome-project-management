@@ -54,6 +54,7 @@
 | [Trello](https://trello.com) | Kanban-style boards, lists, and cards for visual project tracking | `Free` / Paid |
 | [Notion](https://notion.so) | All-in-one workspace: notes, wikis, databases, and planning | `Free` / From `$8/user` |
 | [Basecamp](https://basecamp.com) | Simple, opinionated project management and team communication | `Free trial` / Flat rate |
+| [WBS/Gantt](https://wbsgantt.app/) | Browser-based WBS and Gantt scheduling with exports and link sharing | `Free` |
 | [Wrike](https://www.wrike.com) | Enterprise-grade work management with advanced reporting | `Free` (limited) / Paid |
 | [Airtable](https://airtable.com) | Flexible database-spreadsheet hybrid for any workflow | `Free` (limited) / Paid |
 | [Backlog](https://backlog.com) | Project management + version control for developer teams | `Free` / From `$35/30 users` |
