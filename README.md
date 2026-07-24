@@ -76,6 +76,7 @@
 | [Lavagna](https://lavagna.io) | Open-source issue and project management for small teams | `Free` · Self-hosted |
 | [zipBoard](https://zipboard.co) | Bug tracking and visual feedback for web projects | `Free` (1 project) / From `$39/mo` |
 | [Pinitto.me](https://pinitto.me) | Infinite virtual corkboard for real-time collaboration | `Free` |
+| [Conyso Cadence](https://conyso.com/cadence.html?utm_source=github&utm_medium=directory&utm_campaign=listing) | Free CPM scheduler with DCMA 14-point audit, Monte Carlo risk sim, EVM & forensic delay analysis; imports/exports Primavera P6 & MS Project | `Free` |
 
 ---
 
