@@ -37,6 +37,50 @@
 1. [Certifications](#certifications)
 1. [Essential Websites](#essential-websites)
 1. [Cheat Sheets](#cheat-sheets)
+1. [Interview](#Interview)
+
+
+## Top Project Management Tool
+  
+  1. [ClickUp](https://clickup.com/?fp_ref=bp09x) - The productivity platform. Create. Plan. Organize. Everything. <b>It's Free for limited usages</b> <br/>
+  Get dedicated help for your entire implementation; requirements definition, solutions tailored to your business processes, data migration, and more. You'll also have a Success Manager dedicated to your account to ensure your teams get the most out of [ClickUp.](https://clickup.com/?fp_ref=bp09x) 
+  1. [Monday](https://mondaycom.grsm.io/rmshahidulislamshahed9288) - A new way to manage your work. <b>It's Free for limited usages</b> 
+  <br />Bring teams together over one shared platform to break communication barriers, move projects forward, and align everyone involved. 
+  [Monday.com](https://mondaycom.grsm.io/rmshahidulislamshahed9288)
+  1. [Backlog](https://backlog.com/?ref=rmshahidulislamshahed) - Online project management tool for developers. <b>Free and starting from $35 for 30 users per / month</b>
+  1. [Jira](https://jira.com) - Jira Software is built for every member of your software team to plan, track, and release great software. <b>Starting from $10 / month. Flat rate For 1 - 10 users</b>
+  1. [Redmine](http://www.redmine.org/) - Redmine is a flexible project management web application. Written using the Ruby on Rails framework, it is cross-platform and cross-database. <b>Free. Open Source. Simple to use.</b>
+  1. [Trello](https://trello.com/) - Trello’s boards, lists, and cards enable you to organize and prioritize your projects in a fun, flexible, and rewarding way. <b>It's Free</b>
+  1. [Wrike](https://www.wrike.com) - Leading Work Management Solution to Streamline Workflow to Gain Visibility to Simplify Planningy. <b>It's Free for limited usages</b>
+  1. [Hive](https://hive.com) - The productivity platform. <b>It's Free for limited usages</b>
+  1. [TeamGantt](https://www.teamgantt.com/) - Meet deadlines, streamline team communication, and keep everyone updated and happy. <b>It's Free for limited usages</b>
+  1. [Airtable](https://airtable.com/) - Part spreadsheet, part database, and entirely flexible, teams use Airtable to organize their work, their way. <b>It's Free for limited usages</b>
+  1. [zipBoard](https://zipboard.co) - Bug tracking and website annotation tool, free for 1 project, pricing starts at $39/month</b>
+  1. [Microsoft Project](https://products.office.com/en/project/project-and-portfolio-management-software) - Streamline project, resource, and portfolio management with Microsoft Project to help you keep track of projects successfully. <b>Starting from $7.00 (user/month), Project Online Essentials</b>
+  1. [Freedcamp](https://freedcamp.com/) - Whether you have wedding plans, organizing a camping trip or leading a work project. Working from home or at the office. Freedcamp is in the center of it all. <b>Free and starting from $1.49 per user / month</b>
+  1. [Taiga](https://taiga.io/) - Taiga is a project management platform for agile developers & designers and project managers who want a beautiful tool that makes work truly enjoyable. <b>Free. Open Source. Simple to use.</b>
+  1. [Asana](https://asana.com/) - Asana is the work management platform teams use to stay focused on the goals, projects, and daily tasks that grow business. <b>Starting from $9.9 (user/month), Premium</b> 
+  1. [Clubhouse](https://clubhouse.io/) - Clubhouse is the first project management platform for software development that brings everyone on every team together to build better products. <b>Starting from $8.33
+monthly, Small (1 - 10 users)</b>
+  1. [Harvest](https://www.getharvest.com/) - Time tracking software for those who value insight. <b>Starting from free</b>
+  1. [Hitask](https://hitask.com/) - Task Management Made Delightfully Simple. <b>Starting from free</b>
+  1. [Pinitto](https://pinitto.me) - PinItTo.me is an infinite virtual corkboard. Collaborate with friends, family, or colleagues in real time in any way you want. Make plans, share ideas, play games... <b>Free to use</b>
+  1. [Outplanr](https://www.outplanr.com/) - Turn to-do lists into daily work plans. <b>Starting from $15 / Month for 3 users</b>
+  1. [Taskade](https://taskade.com/) - Simplify the way your team works. <b>Starting from free</b>
+  1. [Notion](http://notion.so/) - Write, plan, collaborate, and get organized. Notion is all you need — in one tool. <b>Start for free, or as low as $4 a month.</b>
+  1. [Jixee](https://jixee.me/) - Task and Communication Hub For Developers. <b>Startig from $19/month</b>
+  1. [Teamwork.com](https://www.teamwork.com/) - Project management software that lets you own the big picture. <b>Starting from free, max 5 user</b>
+  1. [Basecamp](https://basecamp.com) - All growing businesses run into the same fundamental problems. Hair on fire, buried under email, stuff everywhere. <b>Free for 30 days</b>
+  1. [OpenProject](https://www.openproject.org) - OpenProject is the leading open source project management software. <b>Startig from Free</b>
+  1. [Phabricator](http://phabricator.org/) - Phabricator is a set of tools that help companies build better software, faster. <b>Local Install Completely Free</b>
+  1. [Redbooth](https://redbooth.com/pricing) - Flexible Project Management software that scales with your team. <b>Starting from $9 /user/month</b>
+  1. [Bitrix24](https://www.bitrix24.com) - Stunningly beautiful websites and landing pages, ready to help you sell your products and services in minutes. <b>Free for 12 users</b>
+  1. [Lavagna.io](https://lavagna.io/) - Lavagna is an open-source issue/project management tool designed for small teams. <b>Open source, Self install</b>
+  1. [Stacks](https://getstacksapp.com/) - A private and self-hosted project management tool that helps you keep track of your tasks, projects, and team members.
+
+
+
+## Free Template
 1. [Interview Preparation](#interview-preparation)
 
 ---
