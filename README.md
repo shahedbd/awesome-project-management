@@ -8,36 +8,105 @@
 
 ![PM Banner](https://github.com/shahedbd/awesome-project-management/blob/master/Resource/pmbanner.png)
 
+## Table of Contents
+1. [Top Project Management Tool](#Top-Project-Management-Tool)
+1. [Free Template](#Free-Template)
+1. [Design and Documentation Tool](#Design-and-Documentation-Tool)
+1. [Communication Tool](#Communication-Tool)
+1. [Productivity Tool](#Productivity-Tool)
+1. [Password Management Tool](#Password-Management-Tool)
+1. [Cloud Storage](#Cloud-Storage)
+1. [Version Control Tool](#Version-Control-Tool)
+1. [Estimation](#Estimation)
+1. [Requirements](#Requirements)
+1. [Software Development Methodologies](#Software-Development-Methodologies)
+1. [Software Development Life Cycle-SDLC](#Software-Development-Life-Cycle-SDLC)
+1. [Books](#Books)
+1. [Download Book](#Download-Book)
+1. [Video and Online Courses](#Video-and-Online-Courses)
+1. [Tutorial](#Tutorial)
+1. [Articles and Post](#Articles-and-Post)
+1. [Best Practices](#Best-Practices)
+1. [Communication](#Communication)
+1. [Community](#Community)
+1. [Conference and Seminar](#Conference-and-Seminar)
+1. [People](#People)
+1. [Certification](#Certification)
+1. [Essential Website](#Essential-Website)
+1. [Cheat Sheets](#cheat-sheets)
+1. [Interview](#Interview)
+
+
+## Top Project Management Tool
+  
+  1. [ClickUp](https://clickup.com/?fp_ref=bp09x) - The productivity platform. Create. Plan. Organize. Everything. <b>It's Free for limited usages</b> <br/>
+  Get dedicated help for your entire implementation; requirements definition, solutions tailored to your business processes, data migration, and more. You'll also have a Success Manager dedicated to your account to ensure your teams get the most out of [ClickUp.](https://clickup.com/?fp_ref=bp09x) 
+  1. [Monday](https://mondaycom.grsm.io/rmshahidulislamshahed9288) - A new way to manage your work. <b>It's Free for limited usages</b> 
+  <br />Bring teams together over one shared platform to break communication barriers, move projects forward, and align everyone involved. 
+  [Monday.com](https://mondaycom.grsm.io/rmshahidulislamshahed9288)
+  1. [Backlog](https://backlog.com/?ref=rmshahidulislamshahed) - Online project management tool for developers. <b>Free and starting from $35 for 30 users per / month</b>
+  1. [Jira](https://jira.com) - Jira Software is built for every member of your software team to plan, track, and release great software. <b>Starting from $10 / month. Flat rate For 1 - 10 users</b>
+  1. [Redmine](http://www.redmine.org/) - Redmine is a flexible project management web application. Written using the Ruby on Rails framework, it is cross-platform and cross-database. <b>Free. Open Source. Simple to use.</b>
+  1. [Trello](https://trello.com/) - Trello’s boards, lists, and cards enable you to organize and prioritize your projects in a fun, flexible, and rewarding way. <b>It's Free</b>
+  1. [Wrike](https://www.wrike.com) - Leading Work Management Solution to Streamline Workflow to Gain Visibility to Simplify Planningy. <b>It's Free for limited usages</b>
+  1. [Hive](https://hive.com) - The productivity platform. <b>It's Free for limited usages</b>
+  1. [TeamGantt](https://www.teamgantt.com/) - Meet deadlines, streamline team communication, and keep everyone updated and happy. <b>It's Free for limited usages</b>
+  1. [Airtable](https://airtable.com/) - Part spreadsheet, part database, and entirely flexible, teams use Airtable to organize their work, their way. <b>It's Free for limited usages</b>
+  1. [zipBoard](https://zipboard.co) - Bug tracking and website annotation tool, free for 1 project, pricing starts at $39/month</b>
+  1. [Microsoft Project](https://products.office.com/en/project/project-and-portfolio-management-software) - Streamline project, resource, and portfolio management with Microsoft Project to help you keep track of projects successfully. <b>Starting from $7.00 (user/month), Project Online Essentials</b>
+  1. [Freedcamp](https://freedcamp.com/) - Whether you have wedding plans, organizing a camping trip or leading a work project. Working from home or at the office. Freedcamp is in the center of it all. <b>Free and starting from $1.49 per user / month</b>
+  1. [Taiga](https://taiga.io/) - Taiga is a project management platform for agile developers & designers and project managers who want a beautiful tool that makes work truly enjoyable. <b>Free. Open Source. Simple to use.</b>
+  1. [Asana](https://asana.com/) - Asana is the work management platform teams use to stay focused on the goals, projects, and daily tasks that grow business. <b>Starting from $9.9 (user/month), Premium</b> 
+  1. [Clubhouse](https://clubhouse.io/) - Clubhouse is the first project management platform for software development that brings everyone on every team together to build better products. <b>Starting from $8.33
+monthly, Small (1 - 10 users)</b>
+  1. [Harvest](https://www.getharvest.com/) - Time tracking software for those who value insight. <b>Starting from free</b>
+  1. [Hitask](https://hitask.com/) - Task Management Made Delightfully Simple. <b>Starting from free</b>
+  1. [Pinitto](https://pinitto.me) - PinItTo.me is an infinite virtual corkboard. Collaborate with friends, family, or colleagues in real time in any way you want. Make plans, share ideas, play games... <b>Free to use</b>
+  1. [Outplanr](https://www.outplanr.com/) - Turn to-do lists into daily work plans. <b>Starting from $15 / Month for 3 users</b>
+  1. [Taskade](https://taskade.com/) - Simplify the way your team works. <b>Starting from free</b>
+  1. [Notion](http://notion.so/) - Write, plan, collaborate, and get organized. Notion is all you need — in one tool. <b>Start for free, or as low as $4 a month.</b>
+  1. [Jixee](https://jixee.me/) - Task and Communication Hub For Developers. <b>Startig from $19/month</b>
+  1. [Teamwork.com](https://www.teamwork.com/) - Project management software that lets you own the big picture. <b>Starting from free, max 5 user</b>
+  1. [Basecamp](https://basecamp.com) - All growing businesses run into the same fundamental problems. Hair on fire, buried under email, stuff everywhere. <b>Free for 30 days</b>
+  1. [OpenProject](https://www.openproject.org) - OpenProject is the leading open source project management software. <b>Startig from Free</b>
+  1. [Phabricator](http://phabricator.org/) - Phabricator is a set of tools that help companies build better software, faster. <b>Local Install Completely Free</b>
+  1. [Redbooth](https://redbooth.com/pricing) - Flexible Project Management software that scales with your team. <b>Starting from $9 /user/month</b>
+  1. [Bitrix24](https://www.bitrix24.com) - Stunningly beautiful websites and landing pages, ready to help you sell your products and services in minutes. <b>Free for 12 users</b>
+  1. [Lavagna.io](https://lavagna.io/) - Lavagna is an open-source issue/project management tool designed for small teams. <b>Open source, Self install</b>
+    
+
+
+## Free Template
+- [IT Project Management Templets](https://github.com/Valeriia458/IT-Project-Management-Toolkit-Templats)
 ---
 
 ## 📚 Table of Contents
 
-1. [Top Project Management Tools](#top-project-management-tools)
-1. [Free Templates](#free-templates)
-1. [Design & Documentation Tools](#design--documentation-tools)
-1. [Communication Tools](#communication-tools)
-1. [Productivity Tools](#productivity-tools)
-1. [Password Management Tools](#password-management-tools)
-1. [Cloud Storage](#cloud-storage)
-1. [Version Control / SCM](#version-control--scm)
-1. [Estimation](#estimation)
-1. [Requirements](#requirements)
-1. [Software Development Methodologies](#software-development-methodologies)
-1. [Software Development Life Cycle (SDLC)](#software-development-life-cycle-sdlc)
-1. [Books](#books)
-1. [Download Books](#download-books)
-1. [Video & Online Courses](#video--online-courses)
-1. [Tutorials](#tutorials)
-1. [Articles & Posts](#articles--posts)
-1. [Best Practices](#best-practices)
-1. [Communication](#communication)
-1. [Community](#community)
-1. [Conferences & Seminars](#conferences--seminars)
-1. [Notable People](#notable-people)
-1. [Certifications](#certifications)
-1. [Essential Websites](#essential-websites)
-1. [Cheat Sheets](#cheat-sheets)
-1. [Interview Preparation](#interview-preparation)
+1. [Top Project Management Tools](#️-top-project-management-tools)
+1. [Free Templates](#-free-templates)
+1. [Design & Documentation Tools](#-design--documentation-tools)
+1. [Communication Tools](#-communication-tools)
+1. [Productivity Tools](#-productivity-tools)
+1. [Password Management Tools](#-password-management-tools)
+1. [Cloud Storage](#️-cloud-storage)
+1. [Version Control / SCM](#-version-control--scm)
+1. [Estimation](#-estimation)
+1. [Requirements](#-requirements)
+1. [Software Development Methodologies](#-software-development-methodologies)
+1. [Software Development Life Cycle (SDLC)](#-software-development-life-cycle-sdlc)
+1. [Books](#-books)
+1. [Video & Online Courses](#-video--online-courses)
+1. [Tutorials](#-tutorials)
+1. [Articles & Posts](#-articles--posts)
+1. [Best Practices](#-best-practices)
+1. [Communication](#️-communication)
+1. [Community](#-community)
+1. [Conferences & Seminars](#-conferences--seminars)
+1. [Notable People](#-notable-people)
+1. [Certifications](#-certifications)
+1. [Essential Websites](#-essential-websites)
+1. [Cheat Sheets](#-cheat-sheets)
+1. [Interview Preparation](#-interview-preparation)
 
 ---
 
@@ -67,16 +136,16 @@
 | [Freedcamp](https://freedcamp.com) | Project management for personal and professional use | `Free` / From `$1.49/user` |
 | [Teamwork.com](https://www.teamwork.com) | Client-focused project management with billing features | `Free` (up to 5 users) |
 | [Microsoft Project](https://www.microsoft.com/en-us/microsoft-365/project/project-management-software) | Enterprise project, resource, and portfolio management | From `$10/user` |
-| [Clubhouse (Shortcut)](https://shortcut.com) | Project management built specifically for software teams | From `$8.50/user` |
+| [Shortcut](https://shortcut.com) | Project management built specifically for software teams | From `$8.50/user` |
 | [Redbooth](https://redbooth.com) | Flexible PM software with HD video meetings | From `$9/user` |
 | [Bitrix24](https://www.bitrix24.com) | CRM + project management + website builder suite | `Free` (up to 12 users) |
 | [Phabricator](https://www.phacility.com) | Open-source suite of tools for software development teams | `Free` · Self-hosted |
 | [Hitask](https://hitask.com) | Simple task and project management for teams | `Free` / Paid |
-| [Outplanr](https://www.outplanr.com) | Converts to-do lists into daily work plans | From `$15/3 users` |
 | [Lavagna](https://lavagna.io) | Open-source issue and project management for small teams | `Free` · Self-hosted |
 | [zipBoard](https://zipboard.co) | Bug tracking and visual feedback for web projects | `Free` (1 project) / From `$39/mo` |
 | [Pinitto.me](https://pinitto.me) | Infinite virtual corkboard for real-time collaboration | `Free` |
 | [Conyso Cadence](https://conyso.com/cadence.html?utm_source=github&utm_medium=directory&utm_campaign=listing) | Free CPM scheduler with DCMA 14-point audit, Monte Carlo risk sim, EVM & forensic delay analysis; imports/exports Primavera P6 & MS Project | `Free` |
+| [Stacks](https://getstacksapp.com) | Private, self-hosted project management for tasks and teams | `Self-hosted` |
 
 ---
 
@@ -110,7 +179,6 @@
 - [InVision](https://www.invisionapp.com) — Digital product design and prototyping
 - [Zeplin](https://zeplin.io) — Design handoff and collaboration
 - [Smartsheet](https://www.smartsheet.com) — Spreadsheet-based project planning
-- [Prottapp](https://prottapp.com) — Mobile and web prototyping
 - [Slite](https://slite.com) — Team knowledge base and documentation
 - [Codepen](https://codepen.io) — Front-end code playground and collaboration
 - [Icons8](https://icons8.com) — Icons, illustrations, and design assets
@@ -144,17 +212,17 @@
 - [OneNote](https://www.onenote.com) — Microsoft's digital notebook
 - [Evernote](https://evernote.com) — Note-taking and organization
 - [Google Keep](https://keep.google.com) — Quick notes and reminders
-- [Joplin](https://joplinapp.org) — Open-source note-taking with markdown support
+- [Joplin](https://joplinapp.org) — Open-source note-taking with Markdown support
 - [Azendoo](https://www.azendoo.com) — Task and project tracking with integrations
 
 ---
 
 ## 🔐 Password Management Tools
 
-- [Password Generator](https://basiccalculatoronline.com/password-generator) — Password Generator
 - [1Password](https://1password.com) — Team and personal password manager
 - [Dashlane](https://www.dashlane.com) — Password manager with dark web monitoring
 - [LastPass](https://www.lastpass.com) — Cloud-based password vault
+- [Bitwarden](https://bitwarden.com) — Open-source password manager (free tier available)
 
 ---
 
@@ -176,7 +244,6 @@
 - [Bitbucket](https://bitbucket.org) — Git hosting with Jira integration (Atlassian)
 - [Gitea](https://gitea.io) — Lightweight, self-hosted Git service
 - [Beanstalk](https://beanstalkapp.com) — Hosted Git and SVN with deployment
-- [Launchpad](https://launchpad.net) — Code hosting and collaboration (Ubuntu/Canonical)
 - [SourceForge](https://sourceforge.net) — Open-source software hosting and distribution
 
 ---
@@ -222,7 +289,7 @@
 | Feature Driven Development (FDD) | Feature-centric iterative development | [agilemodeling.com](http://agilemodeling.com/essays/fdd.htm) |
 | Critical Path Method (CPM) | Schedule optimization via critical task identification | [Smartsheet](https://www.smartsheet.com/critical-path-method) |
 | Critical Chain PM (CCPM) | Buffer-based scheduling to protect project completion | [Tallyfy](https://tallyfy.com/critical-chain-project-management-ccpm/) |
-| Adaptive Project Framework (APF) | Scope-flexible framework for uncertain projects | [ThinkThyme](https://thinkthyme.com/project-management/adaptive-project-framework-methodology) |
+| Adaptive Project Framework (APF) | Scope-flexible framework for uncertain projects | [Wikipedia](https://en.wikipedia.org/wiki/Adaptive_project_framework) |
 | V-Model | Verification and validation model paired with SDLC phases | [Medium](https://medium.com/software-engineering-kmitl/v-model-3a71622b3d82) |
 
 ---
@@ -262,11 +329,9 @@ The SDLC is a structured process for planning, creating, testing, and deploying 
 1. [Peopleware: Productive Projects and Teams](https://www.amazon.com/Peopleware-Productive-Projects-Teams-3rd/dp/0321934113/)
 1. [Leadership Step by Step](https://www.amazon.com/gp/product/0814437931/)
 1. [Conflict 101: A Manager's Guide to Resolving Problems](https://www.amazon.com/Conflict-101-Managers-Resolving-Problems/dp/0814417116)
-1. [Talking to 'Crazy': Dealing with Irrational People](https://www.amazon.com/gp/product/B0789W6FYX/)
 1. [Good to Great](https://www.amazon.com/Good-Great-Some-Companies-Others/dp/0066620996/)
 1. [Principles: Life and Work – Ray Dalio](https://www.amazon.com/gp/product/B071CTK28D/)
 1. [Master Your Time, Master Your Life](https://www.amazon.com/gp/product/0399183825/)
-1. [The Velocity Advantage](https://www.amazon.com/gp/product/B01MQOCCQC/)
 
 ### Technical & Advanced
 1. [The Mythical Man-Month](https://www.amazon.com/Mythical-Man-Month-Software-Engineering-Anniversary-ebook/dp/B000OZ0N6M)
@@ -286,12 +351,6 @@ The SDLC is a structured process for planning, creating, testing, and deploying 
 1. [Brilliant Checklists for Project Managers](https://www.amazon.com/gp/product/B00SFSTKOQ/)
 1. [Scrappy Project Management](https://www.amazon.com/Scrappy-Project-Management-Predictable-Avoidable/dp/1600050514)
 1. [The HBR Manager's Handbook](https://www.amazon.com/Harvard-Business-Review-Managers-Handbook-ebook/dp/B01I8S26W0)
-
----
-
-## 📥 Download Books
-
-- [Z-Library – Free Book Downloads](https://z-lib.org/) *(check local availability)*
 
 ---
 
