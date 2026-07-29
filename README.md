@@ -85,6 +85,7 @@
 - [IT Project Management Toolkit Templates](https://github.com/Valeriia458/IT-Project-Management-Toolkit-Templats)
 - [Top Project Management Excel Templates](https://www.smartsheet.com/top-project-management-excel-templates)
 - [Free Task List and Checklist Templates](https://www.smartsheet.com/15-free-task-list-templates)
+- [Free Project Brief Template](https://github.com/kiwi-phantomworks/service-provider-template-kits/blob/main/docs/free-project-brief-template.md)
 - [The Ultimate List of 42 Free PM Templates](https://www.workamajig.com/blog/project-management-templates)
 - [Work Breakdown Structure (WBS)](https://www.vertex42.com/ExcelTemplates/work-breakdown-structure.html)
 - [Sample WBS Templates (Google Sheets)](https://docs.google.com/spreadsheets/d/1MX3h0ivStnAhp_jG57xYcEx2syOkw06wIbrGLs0aVg0/edit#gid=0)
