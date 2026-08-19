@@ -65,6 +65,7 @@
 | [Hive](https://hive.com) | Flexible project management with native chat and analytics | `Free` (limited) / Paid |
 | [Harvest](https://www.getharvest.com) | Time tracking and invoicing for project teams | `Free` / From `$12/user` |
 | [Taskade](https://taskade.com) | Real-time collaborative task lists and mind maps | `Free` / Paid |
+| [Taskfolk](https://taskfolk.ai) | Project management with humans and AI agents as named members; hosted MCP | `Free` / Pro $3/editor |
 | [Freedcamp](https://freedcamp.com) | Project management for personal and professional use | `Free` / From `$1.49/user` |
 | [Teamwork.com](https://www.teamwork.com) | Client-focused project management with billing features | `Free` (up to 5 users) |
 | [Microsoft Project](https://www.microsoft.com/en-us/microsoft-365/project/project-management-software) | Enterprise project, resource, and portfolio management | From `$10/user` |
