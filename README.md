@@ -62,6 +62,7 @@
 | [Taiga](https://taiga.io) | Agile PM platform for developers, designers, and PMs | `Free` · Open Source |
 | [OpenProject](https://www.openproject.org) | Leading open-source project management software | `Free` · Open Source |
 | [TeamGantt](https://www.teamgantt.com) | Simple Gantt chart tool for scheduling and team updates | `Free` (limited) / Paid |
+| [gantt-chart.io](https://gantt-chart.io) | Paste a task list, get a live Gantt. No account to try. | `Free` / Solo `$12/mo` |
 | [Hive](https://hive.com) | Flexible project management with native chat and analytics | `Free` (limited) / Paid |
 | [Harvest](https://www.getharvest.com) | Time tracking and invoicing for project teams | `Free` / From `$12/user` |
 | [Taskade](https://taskade.com) | Real-time collaborative task lists and mind maps | `Free` / Paid |
