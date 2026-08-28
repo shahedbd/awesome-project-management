@@ -77,6 +77,7 @@
 | [Conyso Cadence](https://conyso.com/cadence.html) | CPM scheduler with Monte Carlo risk simulation and EVM support; imports Primavera P6 & MS Project | `Free` |
 | [Stacks](https://getstacksapp.com) | Private, self-hosted project management for tasks and teams | `Self-hosted` |
 | [Phabricator](https://www.phacility.com) ⚠️ | Open-source dev tools suite — *archived 2021, community forks available* | `Free` · Self-hosted |
+| [Wagglet](https://wagglet.com) | Hand off a prepared AI coding task to a teammate who runs it on their own agent subscription | `Free` |
 
 ---
 
