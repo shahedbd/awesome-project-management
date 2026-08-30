@@ -59,6 +59,7 @@
 | [Airtable](https://airtable.com) | Flexible database-spreadsheet hybrid for any workflow | `Free` (limited) / Paid |
 | [Backlog](https://backlog.com) | Project management + version control for developer teams | `Free` / From `$35/30 users` |
 | [Redmine](http://www.redmine.org/) | Flexible open-source project management web app (Ruby on Rails) | `Free` · Open Source |
+| [ScheduleGate](https://github.com/gjunqueira-sys/ScheduleGate) | DCMA 14-point schedule assessment for MS Project Excel/CSV exports | `Free` (Community) · Open Source |
 | [Taiga](https://taiga.io) | Agile PM platform for developers, designers, and PMs | `Free` · Open Source |
 | [OpenProject](https://www.openproject.org) | Leading open-source project management software | `Free` · Open Source |
 | [TeamGantt](https://www.teamgantt.com) | Simple Gantt chart tool for scheduling and team updates | `Free` (limited) / Paid |
