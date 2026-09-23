@@ -75,6 +75,7 @@
 | [Lavagna](https://lavagna.io) | Open-source issue and project management for small teams | `Free` · Self-hosted |
 | [zipBoard](https://zipboard.co) | Bug tracking and visual feedback for web projects | `Free` (1 project) / From `$39/mo` |
 | [Conyso Cadence](https://conyso.com/cadence.html) | CPM scheduler with Monte Carlo risk simulation and EVM support; imports Primavera P6 & MS Project | `Free` |
+| [The PM Toolbox](https://thepmtoolbox.com) | 45 single-purpose tools for estimates, schedules, registers and status reports; reads Primavera P6 & MS Project files entirely in the browser | `Free` |
 | [Stacks](https://getstacksapp.com) | Private, self-hosted project management for tasks and teams | `Self-hosted` |
 | [Phabricator](https://www.phacility.com) ⚠️ | Open-source dev tools suite — *archived 2021, community forks available* | `Free` · Self-hosted |
 
@@ -186,6 +187,7 @@
 - [Agile Estimation Techniques – PMI](https://www.pmi.org/learning/library/agile-project-estimation-techniques-6110)
 - [Estimake.it – Project Estimation Tool](https://estimake.it)
 - [Simple Estimate – Project Estimation Tool](https://simplestimate.com)
+- [Three-Point Estimate Calculator – PERT and triangular estimates with Monte Carlo totals](https://thepmtoolbox.com/tools/three-point-estimate-calculator)
 - [Estimation Techniques Overview – TutorialsPoint](https://www.tutorialspoint.com/estimation_techniques/estimation_techniques_overview)
 - [5 Methods of Project Estimation – LiquidPlanner](https://www.liquidplanner.com/blog/5-methods-of-project-estimation/)
 - [Project Estimation with Use Case Points](https://www.codeproject.com/Articles/9913/Project-Estimation-with-Use-Case-Points)
