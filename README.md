@@ -119,6 +119,7 @@
 ---
 
 ## 💬 Communication Tools
+- [AI Group Call](https://aigroupcall.app) - Live voice call with up to eight AI agents around one goal — they debate, brainstorm and hand you a summary and action items.
 
 - [Microsoft Teams](https://teams.microsoft.com) — Chat, meetings, and Office 365 integration
 - [Slack](https://slack.com) — Channel-based messaging for teams
