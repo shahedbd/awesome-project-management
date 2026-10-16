@@ -332,6 +332,7 @@ The SDLC is a structured process for planning, creating, testing, and deploying 
 1. [How to Avoid 12 Common Mistakes in PM – ProjectSmart](https://www.projectsmart.co.uk/how-to-avoid-12-common-mistakes-in-project-management.php)
 1. [10 Powerful Tips for PM Success – ProofHub](https://blog.proofhub.com/10-powerful-tips-for-project-management-success-97f3fd81e7f1)
 1. [Communication & Leadership Tips and Tricks](https://docs.google.com/document/d/1RulqUnprdgYplAE69Iun8MibvrOFXzAyDWM5PEBcbgE/edit)
+1. [Miro vs ClickUp](https://pickthetool.com/miro-vs-clickup/) - Compare a shared canvas with visual planning inside a task workspace.
 1. [The Art of Writing User Stories – Medium](https://medium.com/@jenndodd/the-art-of-writing-user-stories-b3b6154ea4cf)
 1. [The Top 9 Reasons for IT Project Failure](https://www.askspoke.com/blog/it/reasons-for-it-project-failure/)
 1. [10 Reasons Why Software Projects Fail – Medium](https://medium.com/specstimate/10-reasons-why-software-development-projects-fail-7200e7c9ae2e)
