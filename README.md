@@ -430,6 +430,9 @@ The SDLC is a structured process for planning, creating, testing, and deploying 
 - [PRINCE2](https://en.wikipedia.org/wiki/PRINCE2)
 - [Six Sigma](https://www.sixsigma-institute.org/index.php)
 
+### Free Exam Practice
+- [Certopolis – PMP and CAPM practice questions](https://certopolis.com/learn/pmi-pmp?src=awesome-pm) – Free practice questions for PMP and CAPM, each citing the free primary source it was written from (PMI's exam content outline, the Scrum and Kanban guides, GAO guides), plus topic explainers. Played as a town-building game; no account needed to try.
+
 ### PDU Resources (PMP Renewal)
 - [PDU60 – Earn PDUs the Easy Way](https://pdu60.com)
 - [PDUnow – PDUs to Renew Your PMI Credential](https://pdunow.com/)
