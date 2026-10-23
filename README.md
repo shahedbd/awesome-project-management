@@ -147,6 +147,7 @@
 - [Google Keep](https://keep.google.com) — Quick notes and reminders
 - [Joplin](https://joplinapp.org) — Open-source note-taking with Markdown support
 - [Azendoo](https://www.azendoo.com) — Task and project tracking with integrations
+- [TaskCafe](https://getapps.cafe/app/taskcafe) — Offline kanban boards for macOS and Windows with due dates, checklists and cross-board due lists
 
 ---
 
