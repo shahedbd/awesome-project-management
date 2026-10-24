@@ -76,6 +76,7 @@
 | [zipBoard](https://zipboard.co) | Bug tracking and visual feedback for web projects | `Free` (1 project) / From `$39/mo` |
 | [Conyso Cadence](https://conyso.com/cadence.html) | CPM scheduler with Monte Carlo risk simulation and EVM support; imports Primavera P6 & MS Project | `Free` |
 | [Stacks](https://getstacksapp.com) | Private, self-hosted project management for tasks and teams | `Self-hosted` |
+| [Dutify Cloud](https://dutify.cloud) | Tasks, sprints, Gantt and board views, custom fields, automations; API and MCP for AI agents | `Free` / Paid |
 | [Phabricator](https://www.phacility.com) ⚠️ | Open-source dev tools suite — *archived 2021, community forks available* | `Free` · Self-hosted |
 
 ---
