@@ -185,6 +185,7 @@
 
 - [Agile Estimation Techniques – PMI](https://www.pmi.org/learning/library/agile-project-estimation-techniques-6110)
 - [Estimake.it – Project Estimation Tool](https://estimake.it)
+- [Estimay – Free Planning Poker Tool](https://estimay.io)
 - [Simple Estimate – Project Estimation Tool](https://simplestimate.com)
 - [Estimation Techniques Overview – TutorialsPoint](https://www.tutorialspoint.com/estimation_techniques/estimation_techniques_overview)
 - [5 Methods of Project Estimation – LiquidPlanner](https://www.liquidplanner.com/blog/5-methods-of-project-estimation/)
