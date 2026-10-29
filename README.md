@@ -431,6 +431,7 @@ The SDLC is a structured process for planning, creating, testing, and deploying 
 - [Six Sigma](https://www.sixsigma-institute.org/index.php)
 
 ### PDU Resources (PMP Renewal)
+- [Gururo PDU Log Template](https://gururo.com/tools/pdu-log-template/) - Free Excel/Sheets PDU tracker, PMI targets for 11 credentials. Email signup.
 - [PDU60 – Earn PDUs the Easy Way](https://pdu60.com)
 - [PDUnow – PDUs to Renew Your PMI Credential](https://pdunow.com/)
 
