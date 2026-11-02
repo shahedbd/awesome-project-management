@@ -190,6 +190,7 @@
 - [5 Methods of Project Estimation – LiquidPlanner](https://www.liquidplanner.com/blog/5-methods-of-project-estimation/)
 - [Project Estimation with Use Case Points](https://www.codeproject.com/Articles/9913/Project-Estimation-with-Use-Case-Points)
 - [How to Prepare a Quotation Using Use Case Points](https://www.codeproject.com/Articles/9054/How-to-Prepare-Quotation-Using-Use-Case-Points)
+- [PERT Calculator – MattKuna](https://mattkuna.com/free-tools/pert-calculator/)
 
 ---
 
