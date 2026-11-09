@@ -448,6 +448,7 @@ The SDLC is a structured process for planning, creating, testing, and deploying 
 
 ## 📋 Cheat Sheets
 
+- [PMP Formulas Cheat Sheet – DailyDebian](https://dailydebian.com/blogs/cheat-sheets/pmp-formulas-cheat-sheet)
 - [Project Management Cheat Sheet – GitHub](https://github.com/cheat-sheets/project-management-cheat-sheet)
 - [Ultimate Cheat Sheet for Successful PMs – ProofHub](https://blog.proofhub.com/ultimate-cheat-sheet-to-be-a-successful-project-manager-b5683b55b374)
 - [Project Management Cheat Sheet – Cheatography](https://www.cheatography.com/nataliemoore/cheat-sheets/project-management/)
